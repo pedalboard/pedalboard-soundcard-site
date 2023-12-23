@@ -413,7 +413,7 @@ LINE 0.0393701 0.0377953 -0.0663386 0.0377953
 PIN "1" PAD12 -0.0369094 0 TOP 0 0
 PIN "2" PAD12 0.0369094 0 TOP 0 0
 
-SHAPE "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
+SHAPE "pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
 INSERT SMD
 LINE -0.102756 -0.102756 -0.102756 -0.0840551
 LINE -0.0840551 0.102756 -0.102756 0.102756
@@ -975,11 +975,11 @@ TEXT 0 -0.0649606 0.0393701 0 0 SILKSCREEN_TOP "LED" 0 0 0.11811 0.0393701
 SHEET "RefDes: D1, Value: LED"
 
 COMPONENT "U6"
-DEVICE "DEV_Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
+DEVICE "DEV_pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
 PLACE 3.71063 -3.61327
 LAYER TOP
 ROTATION 90
-SHAPE "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias" 0 0
+SHAPE "pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias" 0 0
 TEXT 0 0.150394 0.0393701 0 0 SILKSCREEN_TOP "U6" 0 0 0.0787402 0.0393701
 TEXT 0 -0.150394 0.0393701 0 0 SILKSCREEN_TOP "PCM5242RHBR" 0 0 0.433071 0.0393701
 SHEET "RefDes: U6, Value: PCM5242RHBR"
@@ -1297,57 +1297,57 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
-PART "100nf25v"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
-PART "470R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
 PART "3K8"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
+PART "1uf16v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100nf16v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
+PART "ncp163"
+PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
 
 DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 PART "MountingHole"
 PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "10uf16v"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
-PART "10uf16v"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "10k"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
 DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
 PART "RPi_GPIO"
 PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1uf16V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-PART "22.5792Mhz"
-PACKAGE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-
-DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
-PART "LED"
-PACKAGE "LED_SMD:LED_0805_2012Metric"
 
 DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 PART "Conn_02x03_Odd_Even"
 PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 
-DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
-PART "ncp163"
-PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
+DEVICE "DEV_Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+PART "22.5792Mhz"
+PACKAGE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "10uf16v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "470R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
+PART "10uf16v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
+PART "LED"
+PACKAGE "LED_SMD:LED_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
+PART "470R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_0"
 PART "Conn_02x03_Odd_Even"
@@ -1361,9 +1361,9 @@ DEVICE "DEV_LED_SMD:LED_0805_2012Metric_0"
 PART "LED"
 PACKAGE "LED_SMD:LED_0805_2012Metric"
 
-DEVICE "DEV_Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
+DEVICE "DEV_pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
 PART "PCM5242RHBR"
-PACKAGE "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
+PACKAGE "pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias"
 
 DEVICE "DEV_Package_SO:TSSOP-30_4.4x7.8mm_P0.5mm"
 PART "PCM1863DBT"

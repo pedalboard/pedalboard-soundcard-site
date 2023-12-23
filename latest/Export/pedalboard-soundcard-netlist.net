@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Sat Dec 23 14:39:25 2023")
+    (date "Sat Dec 23 16:10:37 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -530,7 +530,7 @@
       (tstamps "55b452ef-a270-4330-b9a9-71257162539f"))
     (comp (ref "U6")
       (value "PCM5242RHBR")
-      (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
+      (footprint "pedalboard-soundcard:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
       (datasheet "https://www.ti.com/lit/ds/symlink/pcm5242.pdf")
       (libsource (lib "zynthiandac-rescue") (part "PCM5242RHBR-pcm5242") (description ""))
       (property (name "Sheetname") (value "DAC"))

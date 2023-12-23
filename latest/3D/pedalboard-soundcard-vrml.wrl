@@ -6,6 +6,15 @@ Transform {
   scale 2.54 2.54 2.54
   children [
 Transform {
+  rotation 0 0 1 1.5708
+  translation -9.49803 9.15354 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "shapes3D/PinHeader_2x20_P2.54mm_Vertical.wrl"
+    } ]
+  }
+Transform {
   translation 2.05709 6.66339 0.314961
   scale 1 1 1
   children [
@@ -324,6 +333,15 @@ Transform {
   children [
     Inline {
       url "shapes3D/LED_0805_2012Metric.wrl"
+    } ]
+  }
+Transform {
+  rotation 0.57735 0.57735 0.57735 2.0944
+  translation 5.21654 -4.43976 0.314961
+  scale 1 1 1
+  children [
+    Inline {
+      url "shapes3D/EFM8BB31F32G-A-QFN32.wrl"
     } ]
   }
 Transform {
