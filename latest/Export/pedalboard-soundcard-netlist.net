@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Sat Dec 23 16:10:37 2023")
+    (date "Sat Dec 23 16:27:16 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -539,7 +539,7 @@
       (tstamps "bfb98caa-78ae-4eed-bc46-dcd41c9b8795"))
     (comp (ref "X1")
       (value "22.5792Mhz")
-      (footprint "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
+      (footprint "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
       (datasheet "https://abracon.com/Oscillators/ASCO.pdf")
       (libsource (lib "zynthiandac-rescue") (part "ASCO-Oscillator") (description ""))
       (property (name "Sheetname") (value "DAC"))
@@ -548,7 +548,7 @@
       (tstamps "e99f99bb-ca58-42b7-82ea-81cda2608848"))
     (comp (ref "X2")
       (value "24.576Mhz")
-      (footprint "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
+      (footprint "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm")
       (datasheet "https://abracon.com/Oscillators/ASCO.pdf")
       (libsource (lib "zynthiandac-rescue") (part "ASCO-Oscillator") (description ""))
       (property (name "Sheetname") (value "DAC"))

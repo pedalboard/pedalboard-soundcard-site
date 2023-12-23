@@ -308,7 +308,7 @@ LINE -0.0102855 -0.028937 0.0102855 -0.028937
 PIN "1" PAD13 -0.0374016 0 TOP 0 0
 PIN "2" PAD13 0.0374016 0 TOP 0 0
 
-SHAPE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+SHAPE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
 INSERT SMD
 LINE -0.0531496 0 -0.0531496 -0.0448819
 PIN "1" PAD5 -0.0324803 -0.0305118 TOP 0 0
@@ -615,11 +615,11 @@ TEXT 0 -0.0661417 0.0393701 180 0 SILKSCREEN_TOP "2,2nf50v" 0 0 0.314961 0.03937
 SHEET "RefDes: C21, Value: 2,2nf50v"
 
 COMPONENT "X1"
-DEVICE "DEV_Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
 PLACE 3.2185 -2.91535
 LAYER TOP
 ROTATION 90
-SHAPE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm" 0 0
+SHAPE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm" 0 0
 TEXT 0 0.0964567 0.0393701 0 0 SILKSCREEN_TOP "X1" 0 0 0.0787402 0.0393701
 TEXT 0 -0.0964567 0.0393701 0 0 SILKSCREEN_TOP "22.5792Mhz" 0 0 0.393701 0.0393701
 SHEET "RefDes: X1, Value: 22.5792Mhz"
@@ -695,12 +695,12 @@ TEXT 0 -0.0649606 0.0393701 0 0 SILKSCREEN_TOP "3K8" 0 0 0.11811 0.0393701
 SHEET "RefDes: R10, Value: 3K8"
 
 COMPONENT "X2"
-DEVICE "DEV_Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
 PLACE 3.46358 -2.9124
 LAYER TOP
 ROTATION 90
-SHAPE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm" 0 0
-TEXT 0 -0.0944882 0.0393701 0 0 SILKSCREEN_TOP "X2" 0 0 0.0787402 0.0393701
+SHAPE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm" 0 0
+TEXT 0 0.0964567 0.0393701 0 0 SILKSCREEN_TOP "X2" 0 0 0.0787402 0.0393701
 TEXT 0 -0.0964567 0.0393701 0 0 SILKSCREEN_TOP "24.576Mhz" 0 0 0.354331 0.0393701
 SHEET "RefDes: X2, Value: 24.576Mhz"
 
@@ -1297,25 +1297,21 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "3K8"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100nf25V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
+PART "MountingHole"
+PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
 PART "1uf16v"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "100nf16v"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
-PART "ncp163"
-PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
-
-DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
-PART "MountingHole"
-PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
+DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
+PART "LED"
+PACKAGE "LED_SMD:LED_0805_2012Metric"
 
 DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
 PART "RPi_GPIO"
@@ -1325,29 +1321,33 @@ DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 PART "Conn_02x03_Odd_Even"
 PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 
-DEVICE "DEV_Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-PART "22.5792Mhz"
-PACKAGE "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "10uf16v"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "470R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
+DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
+PART "ncp163"
+PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
 PART "10uf16v"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
-PART "LED"
-PACKAGE "LED_SMD:LED_0805_2012Metric"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "10uf16v"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "3K8"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "470R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
 PART "470R"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+PART "24.576Mhz"
+PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
 
 DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_0"
 PART "Conn_02x03_Odd_Even"
