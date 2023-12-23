@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Sat Dec 23 20:01:02 2023")
+    (date "Sat Dec 23 20:15:01 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
