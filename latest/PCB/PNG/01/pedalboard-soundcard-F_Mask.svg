@@ -128,14 +128,6 @@
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 89.7500,95.9000 89.7690,95.8043 89.8232,95.7232 89.9043,95.6690 90.0000,95.6500 90.5000,95.6500 90.5957,95.6690 90.6768,95.7232 90.7310,95.8043 90.7500,95.9000 90.7500,96.8500 90.7310,96.9457 90.6768,97.0268 90.5957,97.0810 90.5000,97.1000 90.0000,97.1000 89.9043,97.0810 89.8232,97.0268 89.7690,96.9457 89.7500,96.8500 Z"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 64.1900,91.8900 62.4900,91.8900 62.4900,90.1900 64.1900,90.1900 Z"/> 
-<circle cx="63.3400" cy="93.5800" r="0.8500"/> 
-<circle cx="65.8800" cy="91.0400" r="0.8500"/> 
-<circle cx="65.8800" cy="93.5800" r="0.8500"/> 
-<circle cx="68.4200" cy="91.0400" r="0.8500"/> 
-<circle cx="68.4200" cy="93.5800" r="0.8500"/> 
-</g>
-<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 69.3000,77.2250 69.3190,77.1293 69.3732,77.0482 69.4543,76.9940 69.5500,76.9750 70.0500,76.9750 70.1457,76.9940 70.2268,77.0482 70.2810,77.1293 70.3000,77.2250 70.3000,78.1750 70.2810,78.2707 70.2268,78.3518 70.1457,78.4060 70.0500,78.4250 69.5500,78.4250 69.4543,78.4060 69.3732,78.3518 69.3190,78.2707 69.3000,78.1750 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 71.2000,77.2250 71.2190,77.1293 71.2732,77.0482 71.3543,76.9940 71.4500,76.9750 71.9500,76.9750 72.0457,76.9940 72.1268,77.0482 72.1810,77.1293 72.2000,77.2250 72.2000,78.1750 72.1810,78.2707 72.1268,78.3518 72.0457,78.4060 71.9500,78.4250 71.4500,78.4250 71.3543,78.4060 71.2732,78.3518 71.2190,78.2707 71.2000,78.1750 Z"/> 
 </g>
@@ -204,14 +196,6 @@
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 103.3400,63.0650 103.2443,63.0460 103.1632,62.9918 103.1090,62.9107 103.0900,62.8150 103.0900,62.2900 103.1090,62.1943 103.1632,62.1132 103.2443,62.0590 103.3400,62.0400 104.2400,62.0400 104.3357,62.0590 104.4168,62.1132 104.4710,62.1943 104.4900,62.2900 104.4900,62.8150 104.4710,62.9107 104.4168,62.9918 104.3357,63.0460 104.2400,63.0650 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 103.3400,61.2400 103.2443,61.2210 103.1632,61.1668 103.1090,61.0857 103.0900,60.9900 103.0900,60.4650 103.1090,60.3693 103.1632,60.2882 103.2443,60.2340 103.3400,60.2150 104.2400,60.2150 104.3357,60.2340 104.4168,60.2882 104.4710,60.3693 104.4900,60.4650 104.4900,60.9900 104.4710,61.0857 104.4168,61.1668 104.3357,61.2210 104.2400,61.2400 Z"/> 
-</g>
-<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
-<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 109.3400,90.2500 109.3400,88.5500 111.0400,88.5500 111.0400,90.2500 Z"/> 
-<circle cx="107.6500" cy="89.4000" r="0.8500"/> 
-<circle cx="110.1900" cy="91.9400" r="0.8500"/> 
-<circle cx="107.6500" cy="91.9400" r="0.8500"/> 
-<circle cx="110.1900" cy="94.4800" r="0.8500"/> 
-<circle cx="107.6500" cy="94.4800" r="0.8500"/> 
 </g>
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 69.3000,75.2500 69.3190,75.1543 69.3732,75.0732 69.4543,75.0190 69.5500,75.0000 70.0500,75.0000 70.1457,75.0190 70.2268,75.0732 70.2810,75.1543 70.3000,75.2500 70.3000,76.2000 70.2810,76.2957 70.2268,76.3768 70.1457,76.4310 70.0500,76.4500 69.5500,76.4500 69.4543,76.4310 69.3732,76.3768 69.3190,76.2957 69.3000,76.2000 Z"/> 
@@ -435,6 +419,22 @@
 <g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 63.8250,76.7500 63.7293,76.7310 63.6482,76.6768 63.5940,76.5957 63.5750,76.5000 63.5750,76.0000 63.5940,75.9043 63.6482,75.8232 63.7293,75.7690 63.8250,75.7500 64.7750,75.7500 64.8707,75.7690 64.9518,75.8232 65.0060,75.9043 65.0250,76.0000 65.0250,76.5000 65.0060,76.5957 64.9518,76.6768 64.8707,76.7310 64.7750,76.7500 Z"/> 
 <path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 63.8250,74.8500 63.7293,74.8310 63.6482,74.7768 63.5940,74.6957 63.5750,74.6000 63.5750,74.1000 63.5940,74.0043 63.6482,73.9232 63.7293,73.8690 63.8250,73.8500 64.7750,73.8500 64.8707,73.8690 64.9518,73.9232 65.0060,74.0043 65.0250,74.1000 65.0250,74.6000 65.0060,74.6957 64.9518,74.7768 64.8707,74.8310 64.7750,74.8500 Z"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 62.4900,92.7300 64.1900,92.7300 64.1900,94.4300 62.4900,94.4300 Z"/> 
+<circle cx="63.3400" cy="91.0400" r="0.8500"/> 
+<circle cx="65.8800" cy="93.5800" r="0.8500"/> 
+<circle cx="65.8800" cy="91.0400" r="0.8500"/> 
+<circle cx="68.4200" cy="93.5800" r="0.8500"/> 
+<circle cx="68.4200" cy="91.0400" r="0.8500"/> 
+</g>
+<g style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;">
+<path style="fill:#000000; fill-opacity:1.0000;  stroke:#000000; stroke-width:0.0000; stroke-opacity:1;  stroke-linecap:round; stroke-linejoin:round;fill-rule:evenodd;" d="M 108.5000,88.5500 108.5000,90.2500 106.8000,90.2500 106.8000,88.5500 Z"/> 
+<circle cx="110.1900" cy="89.4000" r="0.8500"/> 
+<circle cx="107.6500" cy="91.9400" r="0.8500"/> 
+<circle cx="110.1900" cy="91.9400" r="0.8500"/> 
+<circle cx="107.6500" cy="94.4800" r="0.8500"/> 
+<circle cx="110.1900" cy="94.4800" r="0.8500"/> 
 </g>
 </g> 
 </mask></defs><g transform="" id="boardContainer"><g id="substrate" clip-path="url(#cut-off)" mask="url(#pads-mask-silkscreen)"><g id="substrate-board" style="fill:#143324; fill-opacity:0.25098039215686274; stroke:#143324; stroke-width:0;"><path d=" M 51.5 108.5 L 110.5 108.5 A 3 3 0 0 0 113.5 105.5 L 113.5 55.5 A 3 3 0 0 0 110.5 52.5 L 51.5 52.5 A 3 3 0 0 0 48.5 55.5 L 48.5 71.0 A 1 1 0 0 0 49.5 72.0 L 52.5 72.0 A 1 1 0 0 1 53.5 73.0 L 53.5 88.0 A 1 1 0 0 1 52.5 89.0 L 49.5 89.0 A 1 1 0 0 0 48.5 90.0 L 48.5 105.5 A 3 3 0 0 0 51.5 108.5 " style="fill-rule: evenodd;"/><g style="fill-opacity: 0.0;stroke-width: 0.1000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
