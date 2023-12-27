@@ -1297,49 +1297,45 @@ $ENDCOMPONENTS
 
 $DEVICES
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "2,2nF50V"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
+PART "100nF25V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "470R"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 PART "MountingHole"
 PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
-PART "100nF25V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+PART "24.576Mhz"
+PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "100nF25V"
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
+PART "470R"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
+PART "RPi_GPIO"
+PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "10uF16V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
 PART "LED"
 PACKAGE "LED_SMD:LED_0805_2012Metric"
 
-DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-PART "Conn_02x03_Odd_Even"
-PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
-PART "10uF16V"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100nF25V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
 PART "3K9"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-PART "22.5792Mhz"
-PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-
-DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
-PART "RPi_GPIO"
-PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
+PART "10uF16V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
 PART "NCP163"
@@ -1348,6 +1344,10 @@ PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
 PART "470R"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+PART "Conn_02x03_Odd_Even"
+PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 
 DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_0"
 PART "Conn_02x03_Odd_Even"
@@ -1551,7 +1551,7 @@ SIGNAL "/ADC/inl+"
 NODE "J3" "5"
 NODE "C7" "2"
 NODE "R13" "2"
-SIGNAL "AVDD2"
+SIGNAL "VDDF"
 NODE "C9" "1"
 NODE "U4" "8"
 NODE "U3" "5"
@@ -1569,7 +1569,7 @@ SIGNAL "unconnected-(J1-BCM12_PWM0-Pad32)"
 NODE "J1" "32"
 SIGNAL "unconnected-(J1-BCM13_PWM1-Pad33)"
 NODE "J1" "33"
-SIGNAL "AVDD"
+SIGNAL "VDDA"
 NODE "C30" "2"
 NODE "U6" "14"
 NODE "U5" "5"
@@ -2064,7 +2064,7 @@ LINE 2.79094 -3.7815 2.85187 -3.7815
 LINE 2.85187 -3.7815 2.89173 -3.74163
 LINE 2.89173 -3.74163 2.89173 -3.6811
 LINE 2.6937 -3.68425 2.79094 -3.7815
-ROUTE "AVDD2"
+ROUTE "VDDF"
 TRACK TRACK250000
 LINE 2.89567 -3.30807 2.89567 -3.30906
 LINE 2.88586 -3.20965 2.87598 -3.20965
@@ -2084,7 +2084,7 @@ LINE 2.74803 -3.05906 2.74803 -3.10991
 LINE 2.74803 -3.10991 2.71818 -3.13976
 LINE 2.74803 -2.9813 2.74803 -3.05906
 LINE 2.71818 -3.13976 2.67913 -3.13976
-ROUTE "AVDD"
+ROUTE "VDDA"
 LINE 3.86909 -3.56102 3.86909 -3.48228
 LINE 3.86909 -3.48228 3.86909 -3.40551
 LINE 3.94685 -3.32579 3.94685 -3.31742

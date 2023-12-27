@@ -126,13 +126,13 @@ NETS: 91
 25 Net-(C7-Pad1)
 26 unconnected-(J1-BCM7_CE1-Pad26)
 27 /ADC/inl+
-28 AVDD2
+28 VDDF
 29 unconnected-(J1-BCM5-Pad29)
 30 Net-(U4-LDO)
 31 unconnected-(J1-BCM6-Pad31)
 32 unconnected-(J1-BCM12_PWM0-Pad32)
 33 unconnected-(J1-BCM13_PWM1-Pad33)
-34 AVDD
+34 VDDA
 35 Net-(U4-VREF)
 36 unconnected-(J1-BCM16-Pad36)
 37 unconnected-(J1-BCM26-Pad37)
