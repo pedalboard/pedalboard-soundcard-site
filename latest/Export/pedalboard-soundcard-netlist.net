@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Wed Dec 27 20:47:09 2023")
+    (date "Wed Dec 27 22:09:37 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -592,7 +592,7 @@
       (tstamps "194c8580-193e-4903-ad01-6754ee79fd02"))
     (comp (ref "J2")
       (value "Conn_02x03_Odd_Even")
-      (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
+      (footprint "pedalboard-soundcard:PinSocket_2x03_P2.54mm_Vertical")
       (libsource (lib "Connector_Generic") (part "Conn_02x03_Odd_Even") (description "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (property (name "Supplier") (value ""))
       (property (name "Sheetname") (value "DAC"))
@@ -986,7 +986,7 @@
       (tstamps "bcc66088-17e3-445d-a05b-2da91a2f8354"))
     (comp (ref "J3")
       (value "Conn_02x03_Odd_Even")
-      (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical")
+      (footprint "pedalboard-soundcard:PinSocket_2x03_P2.54mm_Vertical")
       (libsource (lib "Connector_Generic") (part "Conn_02x03_Odd_Even") (description "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (property (name "Supplier") (value ""))
       (property (name "Sheetname") (value "ADC"))
