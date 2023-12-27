@@ -101,7 +101,7 @@ BRDOUT: 97 4468 4271
 NETS: 91
 1 unconnected-(J1-3.3V-Pad1)
 2 GND
-3 DVDD
+3 VDD
 4 Net-(C2-Pad1)
 5 /ADC/inr+
 6 Net-(C3-Pad1)
