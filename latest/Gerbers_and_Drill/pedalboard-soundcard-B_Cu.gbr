@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.9-7.0.9~ubuntu23.04.1*%
-%TF.CreationDate,2023-12-26T23:58:21+00:00*%
+%TF.CreationDate,2023-12-27T00:13:06+00:00*%
 %TF.ProjectId,pedalboard-soundcard,70656461-6c62-46f6-9172-642d736f756e,0.0.1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.9-7.0.9~ubuntu23.04.1) date 2023-12-26 23:58:21*
+G04 Created by KiCad (PCBNEW 7.0.9-7.0.9~ubuntu23.04.1) date 2023-12-27 00:13:06*
 %MOMM*%
 %LPD*%
 G01*
@@ -129,10 +129,10 @@ X87350000Y-57270000D03*
 %TO.N,unconnected-(J1-BCM7_CE1-Pad26)*%
 X87350000Y-54730000D03*
 %TO.P,J1,27,BCM0_ID_SD*%
-%TO.N,ID_SD*%
+%TO.N,/ID_SD*%
 X89890000Y-57270000D03*
 %TO.P,J1,28,BCM1_ID_SC*%
-%TO.N,ID_SC*%
+%TO.N,/ID_SC*%
 X89890000Y-54730000D03*
 %TO.P,J1,29,BCM5*%
 %TO.N,unconnected-(J1-BCM5-Pad29)*%

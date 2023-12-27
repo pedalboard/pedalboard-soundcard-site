@@ -148,8 +148,8 @@ NETS: 91
 47 sda
 48 scl
 49 pcm_clk
-50 ID_SD
-51 ID_SC
+50 /ID_SD
+51 /ID_SC
 52 pcm_fs
 53 DOUT
 54 Net-(J1-BCM21_SCLK_PCM_DO)
