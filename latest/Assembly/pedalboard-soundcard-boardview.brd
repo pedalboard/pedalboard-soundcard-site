@@ -118,7 +118,7 @@ NETS: 91
 17 unconnected-(J1-3.3V-Pad17)
 18 unconnected-(J1-BCM24-Pad18)
 19 unconnected-(J1-BCM10_MOSI-Pad19)
-20 5v
+20 +5V
 21 unconnected-(J1-BCM9_MISO-Pad21)
 22 unconnected-(J1-BCM25-Pad22)
 23 unconnected-(J1-BCM11_SCLK-Pad23)
