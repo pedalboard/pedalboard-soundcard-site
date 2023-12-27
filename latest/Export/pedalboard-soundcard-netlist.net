@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Wed Dec 27 19:53:38 2023")
+    (date "Wed Dec 27 20:23:20 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -335,7 +335,7 @@
       (tstamps "806e47f8-4a25-42d9-aa93-d20908339017"))
     (comp (ref "SYM1")
       (value "Logo_Open_Hardware_Small")
-      (footprint "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen")
+      (footprint "Symbol:OSHW-Logo_5.7x6mm_SilkScreen")
       (fields
         (field (name "Sim.Enable") "0"))
       (libsource (lib "Graphic") (part "Logo_Open_Hardware_Small") (description "Open Hardware logo, small"))

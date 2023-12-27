@@ -389,7 +389,7 @@ LINE -0.0102855 -0.028937 0.0102855 -0.028937
 PIN "1" PAD14 -0.0374016 0 TOP 0 0
 PIN "2" PAD14 0.0374016 0 TOP 0 0
 
-SHAPE "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen"
+SHAPE "Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
 INSERT SMD
 
 SHAPE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_0"
@@ -946,12 +946,12 @@ TEXT 0 -0.0649606 0.0393701 0 0 SILKSCREEN_TOP "100R" 0 0 0.15748 0.0393701
 SHEET "RefDes: R15, Value: 100R"
 
 COMPONENT "SYM1"
-DEVICE "DEV_Symbol:OSHW-Logo2_9.8x8mm_SilkScreen"
+DEVICE "DEV_Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
 PLACE 4.27165 -2.95276
 LAYER TOP
 ROTATION 0
-SHAPE "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen" 0 0
-TEXT 0.019685 -0.0984252 0.0393701 0 0 SILKSCREEN_TOP "SYM1" 0 0 0.15748 0.0393701
+SHAPE "Symbol:OSHW-Logo_5.7x6mm_SilkScreen" 0 0
+TEXT 0 0 0.0393701 0 0 SILKSCREEN_TOP "SYM1" 0 0 0.15748 0.0393701
 TEXT 0.0295276 0 0.0393701 0 0 SILKSCREEN_TOP "Logo_Open_Hardware_Small" 0 0 0.944882 0.0393701
 SHEET "RefDes: SYM1, Value: Logo_Open_Hardware_Small"
 
@@ -1358,65 +1358,65 @@ $ENDCOMPONENTS
 
 $DEVICES
 
+DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
+PART "LED"
+PACKAGE "LED_SMD:LED_0805_2012Metric"
+
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
 PART "3K9"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-PART "24.576Mhz"
-PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "10uF16V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "100nF25V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Fiducial:Fiducial_0.75mm_Mask1.5mm"
 PART "Fiducial"
 PACKAGE "Fiducial:Fiducial_0.75mm_Mask1.5mm"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
-PART "10uF16V"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "2,2nF50V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
 PART "NCP163"
 PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
 
+DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+PART "Conn_02x03_Odd_Even"
+PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100nF25V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
 DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
 PART "MountingHole"
 PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
-
-DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
-PART "RPi_GPIO"
-PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
-
-DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
-PART "LED"
-PACKAGE "LED_SMD:LED_0805_2012Metric"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
 PART "100nF25V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+PART "22.5792Mhz"
+PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
-PART "100K"
+PART "10K"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
-PART "Conn_02x03_Odd_Even"
-PACKAGE "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
+PART "10uF16V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
+PART "RPi_GPIO"
+PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
 PART "470R"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_Symbol:OSHW-Logo2_9.8x8mm_SilkScreen"
+DEVICE "DEV_Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
 PART "Logo_Open_Hardware_Small"
-PACKAGE "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen"
+PACKAGE "Symbol:OSHW-Logo_5.7x6mm_SilkScreen"
 
 DEVICE "DEV_Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_0"
 PART "Conn_02x03_Odd_Even"
