@@ -1453,9 +1453,37 @@ $ENDCOMPONENTS
 
 $DEVICES
 
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
+PART "2,2nF50V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
+PART "3K9"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
+DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
+PART "100nF25V"
+PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+PART "22.5792Mhz"
+PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+
+DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_2"
+PART "100K"
+PACKAGE "Resistor_SMD:R_0805_2012Metric"
+
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_2"
 PART "10uF16V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+
+DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
+PART "MountingHole"
+PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
+
+DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
+PART "RPi_GPIO"
+PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
 
 DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_0"
 PART "470R"
@@ -1465,49 +1493,21 @@ DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_1"
 PART "470R"
 PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
-DEVICE "DEV_pedalboard-soundcard:RPi_Hat_Mounting_Hole"
-PART "MountingHole"
-PACKAGE "pedalboard-soundcard:RPi_Hat_Mounting_Hole"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric"
-PART "3K9"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
-
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_0"
-PART "1uF16V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
+DEVICE "DEV_Fiducial:Fiducial_0.75mm_Mask1.5mm"
+PART "Fiducial"
+PACKAGE "Fiducial:Fiducial_0.75mm_Mask1.5mm"
 
 DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric_1"
 PART "100nF25V"
 PACKAGE "Capacitor_SMD:C_0805_2012Metric"
 
-DEVICE "DEV_pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-PART "22.5792Mhz"
-PACKAGE "pedalboard-soundcard:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
-
 DEVICE "DEV_Package_TO_SOT_SMD:SOT-23-5"
 PART "NCP163"
 PACKAGE "Package_TO_SOT_SMD:SOT-23-5"
 
-DEVICE "DEV_Capacitor_SMD:C_0805_2012Metric"
-PART "10uF16V"
-PACKAGE "Capacitor_SMD:C_0805_2012Metric"
-
-DEVICE "DEV_pedalboard-soundcard:Pin_Header_Straight_2x20"
-PART "RPi_GPIO"
-PACKAGE "pedalboard-soundcard:Pin_Header_Straight_2x20"
-
 DEVICE "DEV_LED_SMD:LED_0805_2012Metric"
 PART "LED"
 PACKAGE "LED_SMD:LED_0805_2012Metric"
-
-DEVICE "DEV_Fiducial:Fiducial_0.75mm_Mask1.5mm"
-PART "Fiducial"
-PACKAGE "Fiducial:Fiducial_0.75mm_Mask1.5mm"
-
-DEVICE "DEV_Resistor_SMD:R_0805_2012Metric_2"
-PART "100K"
-PACKAGE "Resistor_SMD:R_0805_2012Metric"
 
 DEVICE "DEV_Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
 PART "Audio_Jack"
