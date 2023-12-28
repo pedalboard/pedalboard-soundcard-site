@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_sch")
-    (date "Thu Dec 28 20:46:14 2023")
+    (date "Thu Dec 28 21:48:17 2023")
     (tool "Eeschema 7.0.9-7.0.9~ubuntu23.04.1")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -259,9 +259,9 @@
       (footprint "pedalboard-soundcard:Pin_Header_Straight_2x20")
       (datasheet "https://cdn-shop.adafruit.com/product-files/2222/00587.pdf")
       (fields
-        (field (name "Supplier") "https://www.digikey.com/en/products/detail/adafruit-industries-llc/2222/6238005"))
+        (field (name "Supplier") "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/2222/6238005"))
       (libsource (lib "pedalboard-soundcard") (part "RPi_GPIO") (description ""))
-      (property (name "Supplier") (value "https://www.digikey.com/en/products/detail/adafruit-industries-llc/2222/6238005"))
+      (property (name "Supplier") (value "https://www.digikey.ch/en/products/detail/adafruit-industries-llc/2222/6238005"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "pedalboard-soundcard.kicad_sch"))
       (sheetpath (names "/") (tstamps "/"))
