@@ -189,7 +189,7 @@ endobj
 >>
 endobj
 173 0 obj
-<</S /GoTo /D [89 0 R /FitR 255 400 315 382]
+<</S /GoTo /D [89 0 R /FitR 266 395 325 378]
 >>
 endobj
 175 0 obj
@@ -433,7 +433,7 @@ endobj
    /Subtype /Link
    /Rect [150.014 422.841 303.151 445.216]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = RPi_GPIO', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.com/en/products/detail/adafruit-industries-llc/2222/6238005', cReturn: 'https://www.digikey.com/en/products/detail/adafruit-industries-llc/2222/6238005' }, { cName: 'Footprint = pedalboard-soundcard:Pin_Header_Straight_2x20', cReturn: null }, { cName: 'Description = Through hole pin header', cReturn: null }, { cName: 'Keywords = pin header', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = RPi_GPIO', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/en/products/detail/adafruit-industries-llc/2222/6238005', cReturn: 'https://www.digikey.ch/en/products/detail/adafruit-industries-llc/2222/6238005' }, { cName: 'Footprint = pedalboard-soundcard:Pin_Header_Straight_2x20', cReturn: null }, { cName: 'Description = Through hole pin header', cReturn: null }, { cName: 'Keywords = pin header', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 10 0 obj
@@ -665,7 +665,7 @@ endobj
    /Subtype /Link
    /Rect [168.321 281.855 205.512 331.244]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = Audio_Jack', cReturn: null }, { cName: 'Sheetfile = adc.kicad_sch', cReturn: null }, { cName: 'Sheetname = ADC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = Audio_Jack', cReturn: null }, { cName: 'Sheetfile = adc.kicad_sch', cReturn: null }, { cName: 'Sheetname = ADC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 39 0 obj
@@ -719,7 +719,7 @@ endobj
 45 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [255.86 382.998 315.151 400.121]
+   /Rect [266.575 378.802 325.866 395.926]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = SYM1', cReturn: null }, { cName: 'Value = Logo_Open_Hardware_Small', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'exclude_from_bom = ', cReturn: null }, { cName: 'ki_description = Open Hardware logo, small', cReturn: null }, { cName: 'ki_keywords = Logo', cReturn: null }, { cName: 'Footprint = Symbol:OSHW-Logo_5.7x6mm_SilkScreen', cReturn: null }, { cName: 'Description = Open Source Hardware Logo', cReturn: null }, { cName: 'Keywords = Logo OSHW', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -881,7 +881,7 @@ endobj
    /Subtype /Link
    /Rect [222.633 281.855 265.697 331.244]
    /Border [16 16 0]
-   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J5', cReturn: null }, { cName: 'Value = Audio_Jack', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
+   /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = J5', cReturn: null }, { cName: 'Value = Audio_Jack', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235', cReturn: 'https://www.digikey.ch/de/products/detail/schurter-inc/4833-2320/2644235' }, { cName: 'dnp = ', cReturn: null }, { cName: 'ki_description = Audio Jack, 3 Poles \\u0028Stereo / TRS\\u0029, Switched TR Poles \\u0028Normalling\\u0029', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle stereo headphones phones TRS connector', cReturn: null }, { cName: 'Footprint = Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal', cReturn: null }, { cName: 'Description = TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf', cReturn: 'https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf' }, { cName: 'Keywords = TRS audio jack stereo horizontal', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
 endobj
 66 0 obj
@@ -1072,7 +1072,7 @@ endobj
 263 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20240107164021)
+/CreationDate (D:20240107173957)
 /Creator (PCBNEW)
 /Title (pedalboard-soundcard-B_Courtyard.pdf)
 >>
@@ -1777,7 +1777,7 @@ endobj
 xref
 0 266
 0000000000 65535 f 
-0000138284 00000 n 
+0000138355 00000 n 
 0000007169 00000 n 
 0000000015 00000 n 
 0000000476 00000 n 
@@ -1786,264 +1786,264 @@ xref
 0000009698 00000 n 
 0000010904 00000 n 
 0000012110 00000 n 
-0000013181 00000 n 
-0000014763 00000 n 
-0000016333 00000 n 
-0000018126 00000 n 
-0000019366 00000 n 
-0000020506 00000 n 
-0000021829 00000 n 
-0000023400 00000 n 
-0000025194 00000 n 
-0000026990 00000 n 
-0000028784 00000 n 
-0000030366 00000 n 
-0000031950 00000 n 
-0000033189 00000 n 
-0000034584 00000 n 
-0000036379 00000 n 
-0000038175 00000 n 
-0000039970 00000 n 
-0000041762 00000 n 
-0000043333 00000 n 
-0000045127 00000 n 
-0000046267 00000 n 
-0000048060 00000 n 
-0000049200 00000 n 
-0000051007 00000 n 
-0000052578 00000 n 
-0000054371 00000 n 
-0000055942 00000 n 
-0000057750 00000 n 
-0000059199 00000 n 
-0000060770 00000 n 
-0000062566 00000 n 
-0000064135 00000 n 
-0000065942 00000 n 
-0000067734 00000 n 
-0000069317 00000 n 
-0000070413 00000 n 
-0000072208 00000 n 
-0000074002 00000 n 
-0000075798 00000 n 
-0000077368 00000 n 
-0000079161 00000 n 
-0000080555 00000 n 
-0000081905 00000 n 
-0000083228 00000 n 
-0000085035 00000 n 
-0000086606 00000 n 
-0000088176 00000 n 
-0000089747 00000 n 
-0000091556 00000 n 
-0000093352 00000 n 
-0000095145 00000 n 
-0000096716 00000 n 
-0000097856 00000 n 
-0000099427 00000 n 
-0000101223 00000 n 
-0000102672 00000 n 
-0000104027 00000 n 
-0000105350 00000 n 
-0000106921 00000 n 
-0000108730 00000 n 
-0000110300 00000 n 
-0000111871 00000 n 
-0000113667 00000 n 
-0000115238 00000 n 
-0000116808 00000 n 
-0000118617 00000 n 
-0000120187 00000 n 
-0000121757 00000 n 
-0000123551 00000 n 
-0000125133 00000 n 
-0000126703 00000 n 
-0000128499 00000 n 
-0000130293 00000 n 
-0000131863 00000 n 
-0000133426 00000 n 
-0000135220 00000 n 
-0000136752 00000 n 
+0000013179 00000 n 
+0000014761 00000 n 
+0000016331 00000 n 
+0000018124 00000 n 
+0000019364 00000 n 
+0000020504 00000 n 
+0000021827 00000 n 
+0000023398 00000 n 
+0000025192 00000 n 
+0000026988 00000 n 
+0000028782 00000 n 
+0000030364 00000 n 
+0000031948 00000 n 
+0000033187 00000 n 
+0000034582 00000 n 
+0000036377 00000 n 
+0000038173 00000 n 
+0000039968 00000 n 
+0000041760 00000 n 
+0000043331 00000 n 
+0000045125 00000 n 
+0000046265 00000 n 
+0000048058 00000 n 
+0000049198 00000 n 
+0000051005 00000 n 
+0000052576 00000 n 
+0000054369 00000 n 
+0000055940 00000 n 
+0000057748 00000 n 
+0000059233 00000 n 
+0000060804 00000 n 
+0000062600 00000 n 
+0000064169 00000 n 
+0000065976 00000 n 
+0000067768 00000 n 
+0000069351 00000 n 
+0000070448 00000 n 
+0000072243 00000 n 
+0000074037 00000 n 
+0000075833 00000 n 
+0000077403 00000 n 
+0000079196 00000 n 
+0000080590 00000 n 
+0000081940 00000 n 
+0000083263 00000 n 
+0000085070 00000 n 
+0000086641 00000 n 
+0000088211 00000 n 
+0000089782 00000 n 
+0000091591 00000 n 
+0000093387 00000 n 
+0000095180 00000 n 
+0000096751 00000 n 
+0000097891 00000 n 
+0000099462 00000 n 
+0000101258 00000 n 
+0000102743 00000 n 
+0000104098 00000 n 
+0000105421 00000 n 
+0000106992 00000 n 
+0000108801 00000 n 
+0000110371 00000 n 
+0000111942 00000 n 
+0000113738 00000 n 
+0000115309 00000 n 
+0000116879 00000 n 
+0000118688 00000 n 
+0000120258 00000 n 
+0000121828 00000 n 
+0000123622 00000 n 
+0000125204 00000 n 
+0000126774 00000 n 
+0000128570 00000 n 
+0000130364 00000 n 
+0000131934 00000 n 
+0000133497 00000 n 
+0000135291 00000 n 
+0000136823 00000 n 
 0000000495 00000 n 
 0000001089 00000 n 
 0000001274 00000 n 
-0000146995 00000 n 
-0000146873 00000 n 
+0000147066 00000 n 
+0000146944 00000 n 
 0000001321 00000 n 
-0000142632 00000 n 
+0000142703 00000 n 
 0000001385 00000 n 
-0000142534 00000 n 
+0000142605 00000 n 
 0000001449 00000 n 
-0000142337 00000 n 
+0000142408 00000 n 
 0000001513 00000 n 
-0000142436 00000 n 
+0000142507 00000 n 
 0000001577 00000 n 
-0000142730 00000 n 
+0000142801 00000 n 
 0000001642 00000 n 
-0000145676 00000 n 
+0000145747 00000 n 
 0000001707 00000 n 
-0000144966 00000 n 
+0000145037 00000 n 
 0000001772 00000 n 
-0000139793 00000 n 
+0000139864 00000 n 
 0000001837 00000 n 
-0000146688 00000 n 
+0000146759 00000 n 
 0000001902 00000 n 
-0000142235 00000 n 
+0000142306 00000 n 
 0000001967 00000 n 
-0000146183 00000 n 
+0000146254 00000 n 
 0000002032 00000 n 
-0000143947 00000 n 
+0000144018 00000 n 
 0000002097 00000 n 
-0000140711 00000 n 
+0000140782 00000 n 
 0000002162 00000 n 
-0000139182 00000 n 
+0000139253 00000 n 
 0000002227 00000 n 
-0000141016 00000 n 
+0000141087 00000 n 
 0000002292 00000 n 
-0000145474 00000 n 
+0000145545 00000 n 
 0000002357 00000 n 
-0000143335 00000 n 
+0000143406 00000 n 
 0000002422 00000 n 
-0000146789 00000 n 
+0000146860 00000 n 
 0000002487 00000 n 
-0000141825 00000 n 
+0000141896 00000 n 
 0000002552 00000 n 
-0000138978 00000 n 
+0000139049 00000 n 
 0000002617 00000 n 
-0000140507 00000 n 
+0000140578 00000 n 
 0000002682 00000 n 
-0000138672 00000 n 
+0000138743 00000 n 
 0000002747 00000 n 
-0000141118 00000 n 
+0000141189 00000 n 
 0000002812 00000 n 
-0000143437 00000 n 
+0000143508 00000 n 
 0000002877 00000 n 
-0000141421 00000 n 
+0000141492 00000 n 
 0000002942 00000 n 
-0000141926 00000 n 
+0000141997 00000 n 
 0000003007 00000 n 
-0000140099 00000 n 
+0000140170 00000 n 
 0000003072 00000 n 
-0000142029 00000 n 
+0000142100 00000 n 
 0000003137 00000 n 
-0000141320 00000 n 
+0000141391 00000 n 
 0000003202 00000 n 
-0000144253 00000 n 
+0000144324 00000 n 
 0000003267 00000 n 
-0000139997 00000 n 
+0000140068 00000 n 
 0000003332 00000 n 
-0000143539 00000 n 
+0000143610 00000 n 
 0000003397 00000 n 
-0000141623 00000 n 
+0000141694 00000 n 
 0000003462 00000 n 
-0000143032 00000 n 
+0000143103 00000 n 
 0000003527 00000 n 
-0000143641 00000 n 
+0000143712 00000 n 
 0000003592 00000 n 
-0000140303 00000 n 
+0000140374 00000 n 
 0000003657 00000 n 
-0000143234 00000 n 
+0000143305 00000 n 
 0000003722 00000 n 
-0000141219 00000 n 
+0000141290 00000 n 
 0000003787 00000 n 
-0000138876 00000 n 
+0000138947 00000 n 
 0000003852 00000 n 
-0000143845 00000 n 
+0000143916 00000 n 
 0000003917 00000 n 
-0000145979 00000 n 
+0000146050 00000 n 
 0000003982 00000 n 
-0000139080 00000 n 
+0000139151 00000 n 
 0000004047 00000 n 
-0000140812 00000 n 
+0000140883 00000 n 
 0000004112 00000 n 
-0000140201 00000 n 
+0000140272 00000 n 
 0000004177 00000 n 
-0000144762 00000 n 
+0000144833 00000 n 
 0000004242 00000 n 
-0000140914 00000 n 
+0000140985 00000 n 
 0000004307 00000 n 
-0000141724 00000 n 
+0000141795 00000 n 
 0000004372 00000 n 
-0000146587 00000 n 
+0000146658 00000 n 
 0000004437 00000 n 
-0000146486 00000 n 
+0000146557 00000 n 
 0000004502 00000 n 
-0000141522 00000 n 
+0000141593 00000 n 
 0000004567 00000 n 
-0000144558 00000 n 
+0000144629 00000 n 
 0000004632 00000 n 
-0000145777 00000 n 
+0000145848 00000 n 
 0000004697 00000 n 
-0000143743 00000 n 
+0000143814 00000 n 
 0000004762 00000 n 
-0000138774 00000 n 
+0000138845 00000 n 
 0000004827 00000 n 
-0000139895 00000 n 
+0000139966 00000 n 
 0000004892 00000 n 
-0000140405 00000 n 
+0000140476 00000 n 
 0000004957 00000 n 
-0000144660 00000 n 
+0000144731 00000 n 
 0000005022 00000 n 
-0000142132 00000 n 
+0000142203 00000 n 
 0000005087 00000 n 
-0000144151 00000 n 
+0000144222 00000 n 
 0000005152 00000 n 
-0000140609 00000 n 
+0000140680 00000 n 
 0000005217 00000 n 
-0000143133 00000 n 
+0000143204 00000 n 
 0000005282 00000 n 
-0000146385 00000 n 
+0000146456 00000 n 
 0000005347 00000 n 
-0000146284 00000 n 
+0000146355 00000 n 
 0000005412 00000 n 
-0000145068 00000 n 
+0000145139 00000 n 
 0000005477 00000 n 
-0000138486 00000 n 
+0000138557 00000 n 
 0000005542 00000 n 
-0000145272 00000 n 
+0000145343 00000 n 
 0000005607 00000 n 
-0000145170 00000 n 
+0000145241 00000 n 
 0000005672 00000 n 
-0000139691 00000 n 
+0000139762 00000 n 
 0000005737 00000 n 
-0000144049 00000 n 
+0000144120 00000 n 
 0000005802 00000 n 
-0000144864 00000 n 
+0000144935 00000 n 
 0000005867 00000 n 
-0000138570 00000 n 
+0000138641 00000 n 
 0000005932 00000 n 
-0000144456 00000 n 
+0000144527 00000 n 
 0000005997 00000 n 
-0000145878 00000 n 
+0000145949 00000 n 
 0000006062 00000 n 
-0000139386 00000 n 
+0000139457 00000 n 
 0000006127 00000 n 
-0000145575 00000 n 
+0000145646 00000 n 
 0000006192 00000 n 
-0000144355 00000 n 
+0000144426 00000 n 
 0000006257 00000 n 
-0000139488 00000 n 
+0000139559 00000 n 
 0000006322 00000 n 
-0000139590 00000 n 
+0000139661 00000 n 
 0000006387 00000 n 
-0000145373 00000 n 
+0000145444 00000 n 
 0000006452 00000 n 
-0000146082 00000 n 
+0000146153 00000 n 
 0000006517 00000 n 
-0000139284 00000 n 
+0000139355 00000 n 
 0000006582 00000 n 
-0000142931 00000 n 
+0000143002 00000 n 
 0000006647 00000 n 
-0000142830 00000 n 
+0000142901 00000 n 
 0000006712 00000 n 
 0000006820 00000 n 
 0000006936 00000 n 
 0000007049 00000 n 
-0000138344 00000 n 
-0000147111 00000 n 
-0000147196 00000 n 
+0000138415 00000 n 
+0000147182 00000 n 
+0000147267 00000 n 
 trailer
 << /Size 266 /Root 265 0 R /Info 263 0 R >>
 startxref
-147326
+147397
 %%EOF
