@@ -65,7 +65,7 @@ endobj
 >>
 endobj
 111 0 obj
-<</S /GoTo /D [89 0 R /FitR 152 300 170 288]
+<</S /GoTo /D [89 0 R /FitR 152 300 170 289]
 >>
 endobj
 113 0 obj
@@ -261,7 +261,7 @@ endobj
 >>
 endobj
 209 0 obj
-<</S /GoTo /D [89 0 R /FitR 292 345 303 331]
+<</S /GoTo /D [89 0 R /FitR 291 345 303 331]
 >>
 endobj
 211 0 obj
@@ -325,7 +325,7 @@ endobj
 >>
 endobj
 241 0 obj
-<</S /GoTo /D [89 0 R /FitR 249 427 265 417]
+<</S /GoTo /D [89 0 R /FitR 249 427 264 417]
 >>
 endobj
 243 0 obj
@@ -341,7 +341,7 @@ endobj
 >>
 endobj
 249 0 obj
-<</S /GoTo /D [89 0 R /FitR 152 328 164 317]
+<</S /GoTo /D [89 0 R /FitR 152 328 164 318]
 >>
 endobj
 251 0 obj
@@ -471,7 +471,7 @@ endobj
 14 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [152.852 288.167 170.298 300.564]
+   /Rect [152.852 289.528 170.298 300.564]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = FID4', cReturn: null }, { cName: 'Value = Fiducial', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Sim.Enable = 0', cReturn: null }, { cName: 'exclude_from_bom = ', cReturn: null }, { cName: 'ki_description = Fiducial Marker', cReturn: null }, { cName: 'ki_keywords = fiducial marker', cReturn: null }, { cName: 'Footprint = Fiducial:Fiducial_0.75mm_Mask1.5mm', cReturn: null }, { cName: 'Description = Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening \\u0028Level B\\u0029', cReturn: null }, { cName: 'Keywords = fiducial', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -679,7 +679,7 @@ endobj
 40 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [287.646 339.413 297.661 363.145]
+   /Rect [287.646 339.413 297.661 363.386]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C26', cReturn: null }, { cName: 'Value = 2,2nF50V', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -743,7 +743,7 @@ endobj
 48 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [293.202 339.455 303.217 363.216]
+   /Rect [293.202 339.455 303.217 363.33]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C25', cReturn: null }, { cName: 'Value = 2,2nF50V', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -823,7 +823,7 @@ endobj
 58 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [271.802 331.466 290.733 341.751]
+   /Rect [271.802 331.707 290.733 341.751]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C12', cReturn: null }, { cName: 'Value = 10uF16V', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -863,7 +863,7 @@ endobj
 63 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [292.812 331.608 303.132 345.779]
+   /Rect [291.778 331.594 303.132 345.779]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R18', cReturn: null }, { cName: 'Value = 470R', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT470R/1760300', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT470R/1760300' }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -951,7 +951,7 @@ endobj
 74 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [259.611 351.587 269.456 369.523]
+   /Rect [259.611 351.587 269.456 369.793]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R24', cReturn: null }, { cName: 'Value = 10K', cReturn: null }, { cName: 'Sheetfile = dac.kicad_sch', cReturn: null }, { cName: 'Sheetname = DAC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676' }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -983,7 +983,7 @@ endobj
 78 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [204.483 345.767 223.731 360.937]
+   /Rect [204.483 345.767 223.136 360.866]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = C18', cReturn: null }, { cName: 'Value = 1uF16V', cReturn: null }, { cName: 'Sheetfile = adc.kicad_sch', cReturn: null }, { cName: 'Sheetname = ADC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724', cReturn: 'https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724' }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = Capacitor_SMD:C_0805_2012Metric', cReturn: null }, { cName: 'Description = Capacitor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -991,7 +991,7 @@ endobj
 79 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [249.222 417.64 265.326 427.485]
+   /Rect [249.222 417.64 264.901 427.485]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R6', cReturn: null }, { cName: 'Value = 3K9', cReturn: null }, { cName: 'Sheetfile = pedalboard-soundcard.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT3K90/1760599', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT3K90/1760599' }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1023,7 +1023,7 @@ endobj
 83 0 obj
 << /Type /Annot
    /Subtype /Link
-   /Rect [152.919 317.874 164.561 328.513]
+   /Rect [152.919 318.243 164.561 328.513]
    /Border [16 16 0]
    /A << /Type /Action /S /JavaScript /JS (var aParams = [ { cName: 'Reference designator = R4', cReturn: null }, { cName: 'Value = 100K', cReturn: null }, { cName: 'Sheetfile = adc.kicad_sch', cReturn: null }, { cName: 'Sheetname = ADC', cReturn: null }, { cName: 'Supplier = https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FG100K/1712614', cReturn: 'https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FG100K/1712614' }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = Resistor_SMD:R_0805_2012Metric', cReturn: null }, { cName: 'Description = Resistor SMD 0805 \\u00282012 Metric\\u0029, square \\u0028rectangular\\u0029 end terminal, IPC_7351 nominal, \\u0028Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator', cReturn: 'https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf\\u0029, generated with kicad-footprint-generator' }, { cName: 'Keywords = resistor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = parseInt\( cChoice.slice\( 1 \) \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);) >>
 >>
@@ -1072,7 +1072,7 @@ endobj
 263 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20240107173957)
+/CreationDate (D:20240107225011)
 /Creator (PCBNEW)
 /Title (pedalboard-soundcard-B_Courtyard.pdf)
 >>
@@ -1777,7 +1777,7 @@ endobj
 xref
 0 266
 0000000000 65535 f 
-0000138355 00000 n 
+0000138354 00000 n 
 0000007169 00000 n 
 0000000015 00000 n 
 0000000476 00000 n 
@@ -1825,225 +1825,225 @@ xref
 0000070448 00000 n 
 0000072243 00000 n 
 0000074037 00000 n 
-0000075833 00000 n 
-0000077403 00000 n 
-0000079196 00000 n 
-0000080590 00000 n 
-0000081940 00000 n 
-0000083263 00000 n 
-0000085070 00000 n 
-0000086641 00000 n 
-0000088211 00000 n 
-0000089782 00000 n 
-0000091591 00000 n 
-0000093387 00000 n 
-0000095180 00000 n 
-0000096751 00000 n 
-0000097891 00000 n 
-0000099462 00000 n 
-0000101258 00000 n 
-0000102743 00000 n 
-0000104098 00000 n 
-0000105421 00000 n 
-0000106992 00000 n 
-0000108801 00000 n 
-0000110371 00000 n 
-0000111942 00000 n 
-0000113738 00000 n 
-0000115309 00000 n 
-0000116879 00000 n 
-0000118688 00000 n 
-0000120258 00000 n 
-0000121828 00000 n 
-0000123622 00000 n 
-0000125204 00000 n 
-0000126774 00000 n 
-0000128570 00000 n 
-0000130364 00000 n 
-0000131934 00000 n 
-0000133497 00000 n 
-0000135291 00000 n 
-0000136823 00000 n 
+0000075832 00000 n 
+0000077402 00000 n 
+0000079195 00000 n 
+0000080589 00000 n 
+0000081939 00000 n 
+0000083262 00000 n 
+0000085069 00000 n 
+0000086640 00000 n 
+0000088210 00000 n 
+0000089781 00000 n 
+0000091590 00000 n 
+0000093386 00000 n 
+0000095179 00000 n 
+0000096750 00000 n 
+0000097890 00000 n 
+0000099461 00000 n 
+0000101257 00000 n 
+0000102742 00000 n 
+0000104097 00000 n 
+0000105420 00000 n 
+0000106991 00000 n 
+0000108800 00000 n 
+0000110370 00000 n 
+0000111941 00000 n 
+0000113737 00000 n 
+0000115308 00000 n 
+0000116878 00000 n 
+0000118687 00000 n 
+0000120257 00000 n 
+0000121827 00000 n 
+0000123621 00000 n 
+0000125203 00000 n 
+0000126773 00000 n 
+0000128569 00000 n 
+0000130363 00000 n 
+0000131933 00000 n 
+0000133496 00000 n 
+0000135290 00000 n 
+0000136822 00000 n 
 0000000495 00000 n 
 0000001089 00000 n 
 0000001274 00000 n 
-0000147066 00000 n 
-0000146944 00000 n 
+0000147065 00000 n 
+0000146943 00000 n 
 0000001321 00000 n 
-0000142703 00000 n 
+0000142702 00000 n 
 0000001385 00000 n 
-0000142605 00000 n 
+0000142604 00000 n 
 0000001449 00000 n 
-0000142408 00000 n 
+0000142407 00000 n 
 0000001513 00000 n 
-0000142507 00000 n 
+0000142506 00000 n 
 0000001577 00000 n 
-0000142801 00000 n 
+0000142800 00000 n 
 0000001642 00000 n 
-0000145747 00000 n 
+0000145746 00000 n 
 0000001707 00000 n 
-0000145037 00000 n 
+0000145036 00000 n 
 0000001772 00000 n 
-0000139864 00000 n 
+0000139863 00000 n 
 0000001837 00000 n 
-0000146759 00000 n 
+0000146758 00000 n 
 0000001902 00000 n 
-0000142306 00000 n 
+0000142305 00000 n 
 0000001967 00000 n 
-0000146254 00000 n 
+0000146253 00000 n 
 0000002032 00000 n 
-0000144018 00000 n 
+0000144017 00000 n 
 0000002097 00000 n 
-0000140782 00000 n 
+0000140781 00000 n 
 0000002162 00000 n 
-0000139253 00000 n 
+0000139252 00000 n 
 0000002227 00000 n 
-0000141087 00000 n 
+0000141086 00000 n 
 0000002292 00000 n 
-0000145545 00000 n 
+0000145544 00000 n 
 0000002357 00000 n 
-0000143406 00000 n 
+0000143405 00000 n 
 0000002422 00000 n 
-0000146860 00000 n 
+0000146859 00000 n 
 0000002487 00000 n 
-0000141896 00000 n 
+0000141895 00000 n 
 0000002552 00000 n 
-0000139049 00000 n 
+0000139048 00000 n 
 0000002617 00000 n 
-0000140578 00000 n 
+0000140577 00000 n 
 0000002682 00000 n 
-0000138743 00000 n 
+0000138742 00000 n 
 0000002747 00000 n 
-0000141189 00000 n 
+0000141188 00000 n 
 0000002812 00000 n 
-0000143508 00000 n 
+0000143507 00000 n 
 0000002877 00000 n 
-0000141492 00000 n 
+0000141491 00000 n 
 0000002942 00000 n 
-0000141997 00000 n 
+0000141996 00000 n 
 0000003007 00000 n 
-0000140170 00000 n 
+0000140169 00000 n 
 0000003072 00000 n 
-0000142100 00000 n 
+0000142099 00000 n 
 0000003137 00000 n 
-0000141391 00000 n 
+0000141390 00000 n 
 0000003202 00000 n 
-0000144324 00000 n 
+0000144323 00000 n 
 0000003267 00000 n 
-0000140068 00000 n 
+0000140067 00000 n 
 0000003332 00000 n 
-0000143610 00000 n 
+0000143609 00000 n 
 0000003397 00000 n 
-0000141694 00000 n 
+0000141693 00000 n 
 0000003462 00000 n 
-0000143103 00000 n 
+0000143102 00000 n 
 0000003527 00000 n 
-0000143712 00000 n 
+0000143711 00000 n 
 0000003592 00000 n 
-0000140374 00000 n 
+0000140373 00000 n 
 0000003657 00000 n 
-0000143305 00000 n 
+0000143304 00000 n 
 0000003722 00000 n 
-0000141290 00000 n 
+0000141289 00000 n 
 0000003787 00000 n 
-0000138947 00000 n 
+0000138946 00000 n 
 0000003852 00000 n 
-0000143916 00000 n 
+0000143915 00000 n 
 0000003917 00000 n 
-0000146050 00000 n 
+0000146049 00000 n 
 0000003982 00000 n 
-0000139151 00000 n 
+0000139150 00000 n 
 0000004047 00000 n 
-0000140883 00000 n 
+0000140882 00000 n 
 0000004112 00000 n 
-0000140272 00000 n 
+0000140271 00000 n 
 0000004177 00000 n 
-0000144833 00000 n 
+0000144832 00000 n 
 0000004242 00000 n 
-0000140985 00000 n 
+0000140984 00000 n 
 0000004307 00000 n 
-0000141795 00000 n 
+0000141794 00000 n 
 0000004372 00000 n 
-0000146658 00000 n 
+0000146657 00000 n 
 0000004437 00000 n 
-0000146557 00000 n 
+0000146556 00000 n 
 0000004502 00000 n 
-0000141593 00000 n 
+0000141592 00000 n 
 0000004567 00000 n 
-0000144629 00000 n 
+0000144628 00000 n 
 0000004632 00000 n 
-0000145848 00000 n 
+0000145847 00000 n 
 0000004697 00000 n 
-0000143814 00000 n 
+0000143813 00000 n 
 0000004762 00000 n 
-0000138845 00000 n 
+0000138844 00000 n 
 0000004827 00000 n 
-0000139966 00000 n 
+0000139965 00000 n 
 0000004892 00000 n 
-0000140476 00000 n 
+0000140475 00000 n 
 0000004957 00000 n 
-0000144731 00000 n 
+0000144730 00000 n 
 0000005022 00000 n 
-0000142203 00000 n 
+0000142202 00000 n 
 0000005087 00000 n 
-0000144222 00000 n 
+0000144221 00000 n 
 0000005152 00000 n 
-0000140680 00000 n 
+0000140679 00000 n 
 0000005217 00000 n 
-0000143204 00000 n 
+0000143203 00000 n 
 0000005282 00000 n 
-0000146456 00000 n 
+0000146455 00000 n 
 0000005347 00000 n 
-0000146355 00000 n 
+0000146354 00000 n 
 0000005412 00000 n 
-0000145139 00000 n 
+0000145138 00000 n 
 0000005477 00000 n 
-0000138557 00000 n 
+0000138556 00000 n 
 0000005542 00000 n 
-0000145343 00000 n 
+0000145342 00000 n 
 0000005607 00000 n 
-0000145241 00000 n 
+0000145240 00000 n 
 0000005672 00000 n 
-0000139762 00000 n 
+0000139761 00000 n 
 0000005737 00000 n 
-0000144120 00000 n 
+0000144119 00000 n 
 0000005802 00000 n 
-0000144935 00000 n 
+0000144934 00000 n 
 0000005867 00000 n 
-0000138641 00000 n 
+0000138640 00000 n 
 0000005932 00000 n 
-0000144527 00000 n 
+0000144526 00000 n 
 0000005997 00000 n 
-0000145949 00000 n 
+0000145948 00000 n 
 0000006062 00000 n 
-0000139457 00000 n 
+0000139456 00000 n 
 0000006127 00000 n 
-0000145646 00000 n 
+0000145645 00000 n 
 0000006192 00000 n 
-0000144426 00000 n 
+0000144425 00000 n 
 0000006257 00000 n 
-0000139559 00000 n 
+0000139558 00000 n 
 0000006322 00000 n 
-0000139661 00000 n 
+0000139660 00000 n 
 0000006387 00000 n 
-0000145444 00000 n 
+0000145443 00000 n 
 0000006452 00000 n 
-0000146153 00000 n 
+0000146152 00000 n 
 0000006517 00000 n 
-0000139355 00000 n 
+0000139354 00000 n 
 0000006582 00000 n 
-0000143002 00000 n 
+0000143001 00000 n 
 0000006647 00000 n 
-0000142901 00000 n 
+0000142900 00000 n 
 0000006712 00000 n 
 0000006820 00000 n 
 0000006936 00000 n 
 0000007049 00000 n 
-0000138415 00000 n 
-0000147182 00000 n 
-0000147267 00000 n 
+0000138414 00000 n 
+0000147181 00000 n 
+0000147266 00000 n 
 trailer
 << /Size 266 /Root 265 0 R /Info 263 0 R >>
 startxref
-147397
+147396
 %%EOF
