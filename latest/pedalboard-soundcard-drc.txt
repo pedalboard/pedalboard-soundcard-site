@@ -1,0 +1,10 @@
+** Drc report for /__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_pcb **
+** Created on 2024-01-07 16:34:52 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
