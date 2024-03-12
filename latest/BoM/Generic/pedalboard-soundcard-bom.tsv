@@ -27,7 +27,7 @@ Schematic:	pedalboard-soundcard
 Variant:	default
 Revision:	0.0.1
 Date:	2023-12-19
-KiCad Version:	7.0.9-7.0.9~ubuntu23.04.1
+KiCad Version:	7.0.11+1
 Statistics:
 Component Groups:	19
 Component Count:	74 (69 SMD/ 5 THT)
