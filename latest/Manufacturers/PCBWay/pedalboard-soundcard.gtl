@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4+1*
-G04 #@! TF.CreationDate,2024-10-04T13:25:53+00:00*
+G04 #@! TF.CreationDate,2024-10-14T18:24:08+00:00*
 G04 #@! TF.ProjectId,pedalboard-soundcard,70656461-6c62-46f6-9172-642d736f756e,0.0.1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4+1) date 2024-10-04 13:25:53*
+G04 Created by KiCad (PCBNEW 8.0.4+1) date 2024-10-14 18:24:08*
 %MOMM*%
 %LPD*%
 G01*
@@ -6374,8 +6374,6 @@ X73450000Y-88127500D02*
 X72392500Y-87070000D01*
 X70149900Y-87070000D02*
 X69250000Y-86170100D01*
-X73450000Y-88237500D02*
-X73450000Y-88127500D01*
 X68950000Y-83750000D02*
 X68049948Y-83750000D01*
 X103790000Y-64590000D02*

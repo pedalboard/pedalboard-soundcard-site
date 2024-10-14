@@ -9,7 +9,7 @@
 |7                 |                    |RPi_GPIO                     |J1                                  |RPi_GPIO           |Pin_Header_Straight_2x20                         |1               |      |https://cdn-shop.adafruit.com/product-files/2222/00587.pdf                                                                        |https://www.digikey.ch/en/products/detail/adafruit-industries-llc/2222/6238005             |
 |8                 |                    |R                            |R2 R3 R8 R12 R14 R15 R21 R22 R26 R27|100R               |R_0805_2012Metric                                |10              |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT100R/1760711 |
 |9                 |                    |R                            |R16 R17 R18 R19                     |470R               |R_0805_2012Metric                                |4               |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT470R/1760300 |
-|10                |                    |R                            |R5 R6 R7 R10                        |3K9                |R_0805_2012Metric                                |4               |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT3K90/1760599 |
+|10                |                    |R                            |R5 R6 R7                            |3K9                |R_0805_2012Metric                                |3               |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT3K90/1760599 |
 |11                |                    |R                            |R1 R20 R23 R24 R25                  |10K                |R_0805_2012Metric                                |5               |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676 |
 |12                |                    |R                            |R4 R9 R11 R13                       |100K               |R_0805_2012Metric                                |4               |      |https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf                                                                                |https://www.digikey.ch/de/products/detail/stackpole-electronics-inc/RMCF0805FG100K/1712614 |
 |13                |                    |AT24CS01-STUM                |U1                                  |AT24CS01-STUM      |SOT-23-5                                         |1               |      |https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf|https://www.digikey.ch/de/products/detail/microchip-technology/AT24C01C-STUM-T/3903763     |
@@ -34,9 +34,9 @@
 |------------------|--------------------|
 |Statistics:       |
 |------------------|
-|Component Groups: |19                  |
+|Component Groups: |20                  |
 |Component Count:  |74 (69 SMD/ 5 THT)  |
-|Fitted Components:|72 (69 SMD/ 3 THT)  |
+|Fitted Components:|71 (68 SMD/ 3 THT)  |
 |Number of PCBs:   |1                   |
-|Total Components: |72                  |
+|Total Components: |71                  |
 |------------------|--------------------|
