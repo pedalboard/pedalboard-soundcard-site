@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.4+1"
     },
-    "CreationDate": "2024-10-16T16:34:42+00:00"
+    "CreationDate": "2024-10-16T16:44:14+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "pedalboard-soundcard",
       "GUID": "70656461-6c62-46f6-9172-642d736f756e",
-      "Revision": "0.0.1"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 65.1,
