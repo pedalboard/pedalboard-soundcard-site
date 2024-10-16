@@ -31,6 +31,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C30","1uF16V","C_0805_2012Metric",50.7000,22.0250,180.0000,top
 "C31","1uF16V","C_0805_2012Metric",47.0250,12.5400,180.0000,top
 "C32","100nF25V","C_0805_2012Metric",33.1750,31.9600,0.0000,top
+"C33","10nF","C_0805_2012Metric",19.5400,22.1100,180.0000,top
+"C34","10nF","C_0805_2012Metric",15.4900,22.1200,0.0000,top
 "D1","LED","LED_0805_2012Metric",10.0050,28.7500,0.0000,top
 "D2","LED","LED_0805_2012Metric",46.0100,24.2000,270.0000,top
 "FID1","Fiducial","Fiducial_0.75mm_Mask1.5mm",3.5000,47.5000,0.0000,top
