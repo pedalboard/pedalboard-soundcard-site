@@ -2,7 +2,7 @@ $HEADER
 GENCAD 1.4
 USER "KiCad 8.0.4+1"
 DRAWING "/__w/pedalboard-soundcard/pedalboard-soundcard/pedalboard-soundcard.kicad_pcb"
-REVISION "1.0.0 2024-10-16"
+REVISION "1.0.1-RC 2024-10-16"
 UNITS INCH
 ORIGIN 0 0
 INTERTRACK 0

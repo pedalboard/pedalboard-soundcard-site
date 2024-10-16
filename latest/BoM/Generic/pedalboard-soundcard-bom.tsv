@@ -26,7 +26,7 @@ Row	Description	Part	References	Value	Footprint	Quantity Per PCB	Status	Datashee
 Project info:
 Schematic:	pedalboard-soundcard
 Variant:	default
-Revision:	1.0.0
+Revision:	1.0.1-RC
 Date:	2024-10-16
 KiCad Version:	8.0.4+1
 Statistics:
