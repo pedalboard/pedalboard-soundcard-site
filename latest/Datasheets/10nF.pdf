@@ -1,0 +1,2345 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7"></script>
+<script src="/content/js/js_A_PxGf3EV6hVEdQpj0xw-cTsSsFJyKhlHKANlKZNsWo.js"></script>
+<script src="/core/misc/modernizr-additional-tests.js?v=3.11.7"></script>
+
+    <meta charset="utf-8" />
+<meta name="description" content="Product specifications and documents of ECHU1C103JX5, Film Capacitors (Electronic Equipment Use), Panasonic. " />
+<meta name="keywords" content="ECHU1C103JX5,Film Capacitors (Electronic Equipment Use),specification,documents" />
+<meta name="twitter:card" content="summary" />
+<link rel="canonical" href="https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" />
+<meta name="twitter:title" content="ECHU1C103JX5 : Film Capacitors (Electronic Equipment Use)" />
+<meta name="twitter:image" content="https://industrial.panasonic.com/content/IN_logo_bk_nb_1200x1400.jpg" />
+<meta property="og:image" content="https://industrial.panasonic.com/content/IN_logo_bk_nb_1200x1400.jpg" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/content/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>ECHU1C103JX5 - Film Capacitors (Electronic Equipment Use) - Film Capacitors - Panasonic</title>
+    <link rel="stylesheet" media="all" href="/content/css/css_wDlqmPDdbpijm25sGRqKbU8OL7rf85E88-VOqutRzIo.css" />
+<link rel="stylesheet" media="all" href="/content/css/css_RX04CyNfbAsnV_C0p6vP-frpSl-jOhQT-4LGEo0U-MA.css" />
+
+  </head>
+  <body class="path-products has-glyphicons">
+          <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N626RN"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N626RN');</script>
+      <!-- End Google Tag Manager -->
+              <script>dataLayer.push({pageCategory: 'M-detail',productCategory: 'Capacitors',lineupCategory: 'Film Capacitors (Electronic Equipment Use)'});</script>
+
+              <div id="page-top"></div>
+    <div id="page" class="body-in">
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <!-- marsfinderoff: index -->
+          <header class="navbar navbar-default container" id="navbar" role="banner">
+            <div class="navbar-header">
+          <div class="region region-navigation">
+    <section id="block-headerblock" class="block block-b2b-industrials block-header-block clearfix">
+  
+    
+
+      <div class="header" id="header" role="banner" aria-label="Header">
+  <div id="header-top" class="header-top nocontent">
+    <div id="header-top-inner" class="header-top-inner clearfix">
+      <div id="header-top">
+        <div class="site-name"><a href="/ww" title="Home" rel="home">Industrial Devices &amp; Solutions</a></div>
+        <div class="header__name-and-slogan" id="name-and-slogan">
+  <a href="/ww" class="header__site-link" rel="home">
+    <img src="/content/panasonic-logo.svg" alt="Home">
+  </a>
+</div>        <nav id="header-menu" role="navigation" aria-label="Related menu">
+  <div class="item-list">
+    <ul class="inline">
+                            
+                           <li class=&quot;first&quot;><a href="/ww/cookies-policy">Cookie Policy</a></li>
+                
+                            
+                           <li class=&quot;last&quot;><a href="/ww"><img src="/themes/custom/industrials/images/holdings-icn-areacountry.svg" alt="Global top"></img>Global</a></li>
+                
+         </ul>
+  </div>
+</nav>      </div>
+      <div class="navigation">
+        <div id="mobile-navigation">
+  <button class="searchMenu">
+    <span class="label">
+      <img src="/themes/custom/industrials/images/holdings-icn-search.svg">
+    </span>
+  </button>
+  <button class="toggleMenu" aria-controls="nav-menu-mob" aria-expanded="false">
+    <span class="label">
+      <img src="/themes/custom/industrials/images/holdings-icn-menu.svg" class="menu-icn">
+      <img src="/themes/custom/industrials/images/holdings-icn-close.svg" class="close-icn" style="display:none">
+    </span>
+  </button>
+</div>                  <nav class="groval_navigation clearfix" role="navigation" aria-labelledby="browsebar-name" aria-label="Global navigation" id="groval_navigation">
+  <div class="item-list">
+    <ul class="groval_navigation_mainmenu" id="browsebar-wrapper">
+      <li class="sp-top mainmanu_btn">
+        <div class="mainmanu_btn_anchor">
+          <a href="/ww" class="top-link-sp">Top</a>
+          <a href="/ww" class="global-link-sp"><img src="/themes/custom/industrials/images/holdings-icn-areacountry.svg" alt="Global top"></img>Global</a>
+        </div>
+      </li>
+                    <li class="mainmanu_btn nav_02">
+          <div class="mainmanu_btn_anchor">
+                          <a href="/ww/products" class="doubleclick disabled secondclone" tabindex="11">Products</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                                                                                                
+  
+  
+    <div class="message-area" style="width: 25%">
+      <div class="menu-top-link">
+        <a href="/ww/products" target="_self" class="" tabindex="12" >Products</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone products-display">
+      <ul class="groval_navigation_second_ul">
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/capacitors" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Capacitors
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/resistors" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Resistors
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/inductors" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Inductors (Coils)
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/thermal-solutions" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Thermal Management Solutions
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/emc-circuit-protection" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  EMC Components, Circuit Protection
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/products/sensors" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Sensors
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industry.panasonic.com/global/en/products/control" target="_blank" class="mainmanu_btn_anchor_second disabled tabout" tabindex="12" rel="noopener">
+                  Input Devices, Switches
+                </a>
+                            </div>
+                        </li>
+                        </ul>
+    </div>
+          <div class="groval_navigation_second displaynone  product-list-2">
+        <ul class="groval_navigation_second_ul">
+                                    <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="https://industry.panasonic.com/global/en/products/control" target="_blank" class="mainmanu_btn_anchor_second disabled " tabindex="12" rel="noopener">
+                    Relays, Connectors
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="https://industry.panasonic.com/global/en/products/fasys" target="_blank" class="mainmanu_btn_anchor_second disabled " tabindex="12" rel="noopener">
+                    FA Sensors &amp; Components
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="/ww/products/motors-compressors" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                    Motors, Compressors
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="/ww/products/custom-module" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                    Custom &amp; Module Devices
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="/ww/products/fa-welding" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                    Factory Automation, Welding Machines
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="https://energy.panasonic.com/global/business" target="_blank" class="mainmanu_btn_anchor_second disabled " tabindex="12" rel="noopener">
+                    Batteries (for Business)
+                  </a>
+                              </div>
+              </li>
+                                                <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="/ww/products/electronic-materials" target="_self" class="mainmanu_btn_anchor_second disabled tabout" tabindex="12">
+                    Electronic Materials
+                  </a>
+                              </div>
+              </li>
+                              </ul>
+      </div>
+              <div class="groval_navigation_second displaynone  product-list-3">
+        <ul class="groval_navigation_second_ul">
+                                    <li class="groval_navigation_second_btn">
+              <div class="second-link-area">
+                                                                              <a href="/ww/products/materials" target="_self" class="mainmanu_btn_anchor_second disabled tabout" tabindex="12">
+                    Materials
+                  </a>
+                              </div>
+              </li>
+                              </ul>
+      </div>
+      </div>                  </li>
+                    <li class="mainmanu_btn nav_03">
+          <div class="mainmanu_btn_anchor">
+                          <a href="/ww/applications" class="doubleclick disabled secondclone" tabindex="11">Application Guides</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                                                                                                  
+  
+    <div class="message-area" style="width: 50%">
+      <div class="menu-top-link">
+        <a href="/ww/applications" target="_self" class="" tabindex="12" >Application Guides</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone ">
+      <ul class="groval_navigation_second_ul">
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/automotive" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Automotive
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/aircon_system" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Air Conditioning System
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/clusterhud" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Cluster HUD
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/bodycontrol-m" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Body Control Module
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/caravsystem" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Car AV System
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/ev-charger" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            EV Charging Station
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/bms" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Battery Management System
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/m-w-radar" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Millimeter Wave Radar
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/a-d-server" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            In-Vehicle Server for Autonomous Driving
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/p-w-module" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Power Window Module
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/a-d-tachograph" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Drive Recorder
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/tpms" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Tire Pressure Monitoring System (TPMS)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/ecall" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            In-Vehicle Emergency Call System (eCall)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/automotive/e-motorcycle" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Electric Motorcycle
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/industrials" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Industrials
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/mfp" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Multifunction Printer (MFP)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/plc" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Programmable Logic Controller (PLC)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/electrictools" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Electric Tools
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/p-conditioner" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Power Conditioner
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/3d-printer" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            3D Printer
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/robot" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Autonomous Delivery Robot
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/irobot" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Industrial Robot
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/drone" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Drone
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/a-machine" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Electronic Amusement Machine
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/industrials/m-instrument" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Measuring Instrument
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/solution-mdls" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Solution Modules
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/solution-mdls/ac-servo" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            AC Servo Motor
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/solution-mdls/ups" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Uninterruptible Power Supply (UPS)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/solution-mdls/ic-package" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Semiconductor Package
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/s-society" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Smart Society
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/s-camera" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Surveillance Camera
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/biometrics" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Biometrics
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/gasmeter" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Gas Meter
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/watermeter" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Water Meter
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/s-c-b-station" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Small Cell Base Station
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/d-signage" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Digital Signage
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/s-society/server" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Server/Router (Network Equipment)
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/ha" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Home Appliances
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/ledlighting" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            LED Lighting (Ceiling Light)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/smartmeter" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Smart Meter
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/aircon" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Air Conditioner
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/hems" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Home Energy Management System (HEMS)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/refrigerator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Refrigerator
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/washingmachine" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Washing Machine
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/solarinverter_s" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Solar Inverter System
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/energystorage_s" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Energy Storage System
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/ha/microwaveoven" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Microwave Oven
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/avc" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  AV/Computing
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/avc/projector" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Projector
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/avc/smartphone" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Smartphone
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/avc/wearable-d" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Wearable Device
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/avc/tablet" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Tablet
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/avc/vr-headset" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            VR Headset
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/applications/h-care" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy tabout" tabindex="12">
+                  Health Care
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/h-care/portableecg-m" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Portable ECG Monitor
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/h-care/sphygmomanometer" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Sphygmomanometer
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/h-care/e-toothbrush" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Electric Toothbrush
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/applications/h-care/hearing-aid" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Hearing Aid
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                        </ul>
+    </div>
+          </div>                  </li>
+                    <li class="mainmanu_btn nav_04">
+          <div class="mainmanu_btn_anchor">
+                          <a href="/ww/downloads" class="doubleclick disabled secondclone" tabindex="11">Download</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                                                                                                                  
+  
+    <div class="message-area" style="width: 50%">
+      <div class="menu-top-link">
+        <a href="/ww/downloads" target="_self" class="" tabindex="12" >Download</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone ">
+      <ul class="groval_navigation_second_ul">
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/catalog-download" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Products Catalog
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/rohs-reach" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  RoHS / REACH Confirmation Report
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/packaging_material" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Packaging Material
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/cad-download" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  CAD Data
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/simulation-data" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Circuit Simulation Data
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/pcc" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Power Inductors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/spcap" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            SP-Cap/Conductive Polymer Aluminum Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/poscap" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            POSCAP/Conductive Polymer Tantalum Solid Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/oscon" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            OS-CON/Conductive Polymer Aluminum Solid Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/hybrid-aluminum" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Conductive Polymer Hybrid Aluminum Electrolytic Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/aluminum-cap-smd" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Surface Mount Type Aluminum Electrolytic Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/emi" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Common mode Noise Filters
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/mlcv" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Chip Varistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/znr" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Varistors (ZNR Surge Absorber)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/esd" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            ESD Suppressor/ ESD Suppressor Array
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/psds" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Battery Product Safety Data Sheet
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://energy.panasonic.com/global/business" target="_blank" class="mainmanu_btn_anchor_second disabled " tabindex="12" rel="noopener">
+                  Lithium battery UN38.3 Test Summary
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/certifications" target="_self" class="mainmanu_btn_anchor_second disabled tabout" tabindex="12">
+                  Certification by public institutions (ISO,IATF)
+                </a>
+                            </div>
+                        </li>
+                        </ul>
+    </div>
+          </div>                  </li>
+                    <li class="mainmanu_btn nav_05">
+          <div class="mainmanu_btn_anchor">
+                          <a href="/ww/design-support" class="doubleclick disabled secondclone" tabindex="11">Design Support</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                                                                                  
+  
+    <div class="message-area" style="width: 50%">
+      <div class="menu-top-link">
+        <a href="/ww/design-support" target="_self" class="" tabindex="12" >Design Support</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone ">
+      <ul class="groval_navigation_second_ul">
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/design-support/ps-spt" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Product selection support
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/cross-search/model" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Cross reference
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/products-ec/smd-film-capacitor/smd-film-capacitor/index" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Surface Mounted Film Capacitor Application Guide
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/fasys/appli_search/index.jsp" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            APPLICATION SEARCH (FA Sensors &amp; Components)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/control/list_search_spec/index.jsp" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Specification Search (relays, connectors, light touch switches)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/spec/panasonic_ac/en_fiber/en_fiber/" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Fiber Sensors Search by Specifications
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/design-support/basics" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Basic knowledge
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/design-support/lecture/noise-filters" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Basics of Common Mode Noise Filters
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/design-support/solutions" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Solutions
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/ss" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Optimal solution for circuit design
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/design-support/solutions/noise-thermal-solutions" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Noise / Thermal Solutions
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/design-support/solutions/thermal-solutions" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Thermal solutions
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/design-support/solutions/automotive" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Automotive Solutions
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/products/fa-welding/fa" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            FA solutions
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/design-support/ds-tools" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12">
+                  Design and simulation
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/products-emc-circuit-protection/circuit-protection/fuses/chip-fuse-selection_registration" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Micro Chip Fuse Selection Tool
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://util01.industrial.panasonic.com/ww/utilities/ds/chr-vw/" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Characteristic Viewer
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/lc-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Industrial &amp; Automotive use LC filter simulator
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/pcc-loss-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Power Inductor loss simulator for automotive application
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://pages.industrial.panasonic.com/ww/products-resistors/chip-resistors/allowable-power-simulator" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Simulator of allowable power by a chip resistor operating temperature
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/soft-pgs-cross" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Power module compatible GraphiteTIM Search Tool
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/ac-servo/mselect/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motor capacity selection software for AC Servo Motors: &quot;Mselect&quot;
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/brushless/mselect_bl/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motor capacity selection software for Brushless Motors: &quot;Mselect for BL&quot;
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Circuit Simulation Data
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/presureunit" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Conversion of pressure unit
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/downloads/cad-download" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  CAD Data
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/design-support/sp-tools" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy tabout" tabindex="12">
+                  Support
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/service/tech_support/fasys/idx_guide/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            FA Technical Support (for Automation Controls)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/ac-servo/panaterm/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motor Setup Support Software &quot;PANATERM&quot; (for MINAS A6/A5 Family)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/brushless/panaterm_bl/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Motor Setup Support Software &quot;PANATERM for BL&quot;（for MINAS BL）
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                        </ul>
+    </div>
+          </div>                  </li>
+                    <li class="mainmanu_btn nav_06">
+          <div class="mainmanu_btn_anchor">
+                          <a href="/ww/news" class="doubleclick disabled secondclone" tabindex="11">News</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                  
+  
+    <div class="message-area" style="width: 50%">
+      <div class="menu-top-link">
+        <a href="/ww/news" target="_self" class="" tabindex="12" >News</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone ">
+      <ul class="groval_navigation_second_ul">
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/news" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                  Information
+                </a>
+                            </div>
+                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="/ww/press-releases" target="_self" class="mainmanu_btn_anchor_second disabled tabout" tabindex="12">
+                  Press release
+                </a>
+                            </div>
+                        </li>
+                        </ul>
+    </div>
+          </div>                  </li>
+                    <li class="mainmanu_btn nav_07">
+          <div class="mainmanu_btn_anchor">
+                          <a href="https://industrial.panasonic.com/cuif2/na/contact-us" class="doubleclick disabled secondclone" tabindex="11" target="_blank" rel="noopener">Contact us</a>
+            
+                          <i class="secondclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+                      </div>
+                      <div class="sp-only-menu">
+                                                                                                                                                                                                                                                                                  
+  
+    <div class="message-area" style="width: 50%">
+      <div class="menu-top-link">
+        <a href="https://industrial.panasonic.com/cuif2/na/contact-us" target="_self" class="" tabindex="12" >Contact us</a>
+      </div>
+      <div class="menu-top-message">
+        
+      </div>
+              <div class="menu-contact-area">
+            <a href="/ww/sales-bases-na" class="mainmanu_btn_anchor_second" target="_self" tabindex="14">Sales bases</a>
+            <a href="/ww/faq" class="mainmanu_btn_anchor_second" target="_self" tabindex="14">FAQ</a>
+        </div>
+          </div>
+
+    <div class="groval_navigation_second displaynone ">
+      <ul class="groval_navigation_second_ul">
+                  <li class="groval_navigation_second_btn mobile-only">
+            <a href="/ww/sales-bases-na" class="mainmanu_btn_anchor_second " target="_self" tabindex="12">Sales bases</a>
+          </li>
+          <li class="groval_navigation_second_btn mobile-only">
+            <a href="/ww/faq" class="mainmanu_btn_anchor_second " target="_self" tabindex="12">FAQ</a>
+          </li>
+        
+                                      <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Capacitors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1363" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Conductive Polymer Aluminum Electrolytic Capacitors (SP-Cap)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1357" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Conductive Polymer Tantalum Solid Capacitors (POSCAP)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1358" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Conductive Polymer Aluminum Solid Capacitors (OS-CON)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1359" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Conductive Polymer Hybrid Aluminum Electrolytic Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=2296" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Aluminum Electrolytic Capacitors (Surface Mount Type)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=2297" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Aluminum Electrolytic Capacitors (Radial Lead Type)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=3797" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Backup Power Supply Modules with Electric Double Layer Capacitors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1361" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Electric Double Layer Capacitors (Multilayer Coin Type) (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=2298" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Electric Double Layer Capacitors (Wound Type)(Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=1362" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Film Capacitors (Electronic Equipment Use)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=2299" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Film Capacitors (AC Motor Use)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2295&amp;field_contact_lineup=2300" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Film Capacitors (Automotive, Industrial and Infrastructure Use)
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Resistors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=3656" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            High Temperature Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1400" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            High Precision Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=3453" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Current Sensing Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=3457" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Small &amp; High Power Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=3461" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Anti-Sulfurated Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=3465" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            General Purpose Chip Resistors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1402" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Resistor Network
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1406" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Attenuator
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1411" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Chip Ring (check terminal)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1401" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Leaded Resistors(Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=1403" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Thermal Sensitive Resistors (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2292&amp;field_contact_lineup=2293" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Trimmer Potentiometers (Discontinued products)
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Inductors (Coils)
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1392" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Power Inductors for Automotive application
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1393" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Power Inductors for Consumer
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1389" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Voltage Step-up Coils(Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1396" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Multilayer type Power Inductors (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1385" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Choke Coils (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=1384" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Chip Inductors (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2304&amp;field_contact_lineup=2305" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Other Inductor (Coil) products
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2306" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Thermal Management Solutions
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2306&amp;field_contact_lineup=1451" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Thermal conductive sheet PGS Graphite Sheet(GraphiteTIM)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2306&amp;field_contact_lineup=1432" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            NTC Thermistor (Chip type)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2306&amp;field_contact_lineup=2309" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Circuit Board Materials for LED lightings &quot;ECOOL&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2306&amp;field_contact_lineup=3134" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Cooling Fan with Unique Hydro Dynamic Bearing
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  EMC Components, Circuit Protection
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1436" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Common mode Noise Filters
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1452" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Electromagnetic Wave Shield Film
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=2312" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            EMI Filters (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1435" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            ESD Suppressor
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1434" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Chip Varistor
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1433" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Varistors (ZNR Surge Absorber)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2311&amp;field_contact_lineup=1383" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Fuses
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Sensors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=1336" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            MR Sensor
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3626" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            6DoF Inertial Sensor for Automotive (6in1 Sensor)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=1337" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Gyro Sensors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=2320" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Temperature Sensors (Automotive use)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=2326" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Infrared Array Sensor Grid-EYE
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3069" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            PS-A Pressure Sensors (built-in amplification and temperature compensating circuit)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3073" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            PS Pressure Sensors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3077" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            PF Pressure Sensors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3447" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            PM2.5 Sensors
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=2321" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            PIR Motion Sensor PaPIRs
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=2324" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            MA Motion Sensor(Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3089" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            1-axis accelerometer GF1(Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=2323" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Light Sensor NaPiCa (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3081" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            GS2 Acceleration Sensor (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=3085" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            GS1 Acceleration Sensor (Discontinued products)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1317&amp;field_contact_lineup=4014" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            FA Sensors
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2315" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Input Devices, Switches
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2315&amp;field_contact_lineup=4018" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Switches, Encoders, Potentiometers, Touch Solutions
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1207" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Relays, Connectors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1207&amp;field_contact_lineup=4022" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Relays / Couplers, Connectors
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3316" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  FA Sensors &amp; Components
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3316&amp;field_contact_lineup=4026" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            FA Sensors, FA Devices
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Motors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=4030" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motors for FA &amp; Industrial Application
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=2403" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motors for Air Conditioning
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=2404" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motors for Vacuum Cleaner
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=2406" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Motors for Refrigerator
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=1312" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Motors for Automotive
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Compressors
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=1315" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            DC Pumps
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=3534" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Reciprocating Compressors (Variable Speed)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=3536" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Rotary Compressors (Fixed Speed)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=3538" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Rotary Compressors (Variable Speed)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=3660" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Scroll Compressors (Fixed Speed)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=3442&amp;field_contact_lineup=3662" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Scroll Compressors (Variable Speed)
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2427" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Custom &amp; Module Devices
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2427&amp;field_contact_lineup=1783" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Aspherical Glass Lenses
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2427&amp;field_contact_lineup=3601" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Ultrasonic Gas Flow and Concentration sensor for Hydrogen GB-L1CMH1A
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2427&amp;field_contact_lineup=3646" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Molded Lead Frame
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2427&amp;field_contact_lineup=2431" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Other Custom / Module devices
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Factory Automation, Welding Machines
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1757" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Electronic Component Mounting-related Systems
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3199" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Solution items
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1758" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Device-related Systems
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1759" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Display-related Systems
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3203" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Measuring system
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3207" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Final Assembly Test and Packing
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1748" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Ultra Accuracy 3-D Profilometers
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3472" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Arc Welding Machines
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3476" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Industrial Robots
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1751" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Laser Processing
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=3808" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Welding IoT Solution （VRPS / Bead Eye / iWNB）
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=1734" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Welding Machines others
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1722&amp;field_contact_lineup=2402" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Other Factory Automation
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Batteries (for Business)
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=1215" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Lithium ion Batteries
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=1221" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Nickel-Metal Hydride Batteries
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=3597" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Coin type Rechargeable Lithium Batteries
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=1210" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Primary Lithium Batteries
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=1212" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Dry Batteries
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1209&amp;field_contact_lineup=3615" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            UN38.3 Test Summary (for Lithium batteries)
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Electronic Materials
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=4005" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            ●Inquiry of Irregularities in Third-party Certification
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3887" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Multi-layer Circuit Board Materials for ICT infrastructure equipment &quot;MEGTRON&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3891" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            High frequency circuit board materials for wireless/RF applications &quot;XPEDION&quot;series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3895" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Multi-layer Circuit Board Materials for Automotive Components &quot;HIPER&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3899" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Circuit Board Materials for LED lightings &quot;ECOOL&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3903" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Flexible Circuit Board Materials for Mobile Products &quot;FELIOS&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3907" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Halogen-free Glass Epoxy Multi-layer Circuit Board Materials &quot;Halogen-free&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3915" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Glass Epoxy Circuit Board Materials
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3919" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Mass laminations(Shield board) &quot;PreMulti&quot;
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3923" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Glass Composite Circuit Board Materials
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3927" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Paper Phenolic Circuit Board Materials
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3931" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            IC Substrate Materials &quot;LEXCM GX&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3935" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Semiconductor Packaging Encapsulation Materials for Advanced Package &quot;LEXCM CF&quot;, &quot;LEXCM DF&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3939" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Semiconductor Packaging Encapsulation Materials for Automotive/Industrial equipment &quot;LEXCM CF&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3943" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Liquid Materials for Board level Underfill, Adhesives &quot;LEXCM DF&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3947" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Plastic Molding Compound for LED &quot;FULL BRIGHT&quot; series
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3951" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            High heat resistance Phenolic Molding Compound for Automotive Components
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3955" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Long-term reliable PBT Molding Compound
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3959" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Urea molding compounds
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3963" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Melamine molding compounds
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3987" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Functional films for HUD cover
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3991" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Moldable Low-Reflection Films
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3995" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Anti-Rainbow and Anti-Blackout Films
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3999" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Anti-Reflection Films
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3971" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Multifunctional Shock Absorber
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3975" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Thermosetting stretchable film BEYOLEX
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3979" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Ultra-light EMC shielding material
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                                        <li class="groval_navigation_second_btn">
+                                      
+                          <div class="second-link-area">
+                              <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1446" target="_blank" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone next-hierarchy " tabindex="12" rel="noopener">
+                  Materials
+                </a>
+                            <i class="thirdclone mobile-depth-icon fa fa-chevron-down" aria-hidden="true"></i>
+              </div>
+              <div class="sp-only-menu">
+    <ul class="groval_navigation_thread displaynone part-1">
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1446&amp;field_contact_lineup=2369" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            AMTETRA
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1446&amp;field_contact_lineup=2371" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Antistatic Film
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1446&amp;field_contact_lineup=2372" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            AMTECLEAN A
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1446&amp;field_contact_lineup=1461" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            AMTECLEAN Z
+          </a>
+              </li>
+      </ul>
+  </div>                        </li>
+                        </ul>
+    </div>
+          </div>                  </li>
+                </ul>
+  </div>
+  <div class="button_groval_navigation_close sp-menu-only" tabindex="25">
+    <div class="button_sp_close">
+      Close
+    </div>
+  </div>
+</nav>              </div>
+    </div>
+  </div>
+  <div class="pc">
+          <div id="header-pc-navigation" style="display: none;">
+  <div class="header-pc-navigation-close displaynone" id="header-pc-navigation-close"><i class="fa fa-times" aria-hidden="true"></i></div>
+  <div class="header-pc-navigation_inner" id="header-pc-navigation_inner">
+    <div id="header-pc-navigaction_second" class="header-pc-navigation"><div class="groval_navigation_second displaynone">
+      <ul class="groval_navigation_second_ul">
+                  <li class="groval_navigation_second_btn">
+            <a href="/ww/products" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              Products
+            </a>
+                      </li>
+                  <li class="groval_navigation_second_btn">
+            <a href="/ww/applications" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              Application Guides
+            </a>
+                      </li>
+                  <li class="groval_navigation_second_btn">
+            <a href="/ww/downloads" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              Download
+            </a>
+                      </li>
+                  <li class="groval_navigation_second_btn">
+            <a href="/ww/design-support" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              Design Support
+            </a>
+                      </li>
+                  <li class="groval_navigation_second_btn">
+            <a href="/ww/news" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              News
+            </a>
+                      </li>
+                  <li class="groval_navigation_second_btn">
+            <a href="https://industrial.panasonic.com/cuif2/na/contact-us" target="_self" class="mainmanu_btn_anchor_second doubleclick disabled thirdclone" tabindex="12">
+              Contact us
+            </a>
+                      </li>
+              </ul>
+    </div>
+  </div>
+  <div id="header-pc-navigation_thread" class="header-pc-navigation"></div>
+</div>      </div>
+</div>
+<div class="mobile-sitename">
+  <div class="site-name"><a href="/ww" title="Home" rel="home">Industrial Devices &amp; Solutions</a></div>
+</div>
+
+  </section>
+
+<section id="block-sitesearchblock-2" class="gray-area search-close block block-b2b-site-search block-b2b-site-search-block clearfix">
+  
+    
+
+      <form class="site-search-block-form" target="_blank" data-drupal-selector="site-search-block-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="site-search-block-form" accept-charset="UTF-8">
+  
+<section class='head-search'>
+  <div class="head-search-input">
+    <div class="head-search-input-label"><i class="fa fa-search fa-2" aria-hidden="true"></i></div><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-no-label form-group form-autocomplete">
+  
+  
+  <div class="input-group"><input title="Search by product" placeholder="Search keyword" class="search-keyword form-autocomplete form-text form-control" maxlength="128" data-drupal-selector="edit-keyword" data-autocomplete-path="/ww/model-search/autocomplete" type="text" id="edit-keyword" name="keyword" value="" size="60" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
+
+  
+  
+  </div>
+<button data-drupal-selector="edit-search-button" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-search-button" name="op" value="Search
+"><span class="pc">Search</span></button></div>
+  <div class="head-search-btns"><a href="/ww/parametric-search?search_name=Film%20Capacitors%20%28Electronic%20Equipment%20Use%29" class="btn btn-head-search" data-drupal-selector="edit-parametric-search-link" id="edit-parametric-search-link">Parametric<br />Search</a><a href="/ww/stock-search" class="btn btn-head-search" data-drupal-selector="edit-stock-search-link" id="edit-stock-search-link">Stock Check</a></div>
+</section><input autocomplete="off" data-drupal-selector="form-snoko7azqfsvusxsnp6n-7auf2mi-likgh3yxfbagm" type="hidden" name="form_build_id" value="form-Snoko7AZQFsVUSXSnP6N-_7auF2mI-lIkGh3yXFbaGM" /><input data-drupal-selector="edit-site-search-block-form" type="hidden" name="form_id" value="site_search_block_form" />
+</form>
+
+  </section>
+
+
+  </div>
+
+                      </div>
+
+                      </header>
+    <!-- marsfinderon: index -->
+
+  <div role="main" class="main-container container js-quickedit-main-content">
+    <div class="row">
+
+      <!-- marsfinderoff: index -->
+                              <div class="col-sm-12" role="heading">
+              <div class="region region-header">
+        <div class="breadcrumb-line">
+    <nav role="navigation" arial-label="Present location">
+      <ol class="breadcrumb">
+                  <li >
+                          <a href="https://industrial.panasonic.com/ww">Home</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products">Products</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products/capacitors">Capacitors</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products/capacitors/film-capacitors">Film Capacitors</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products/pt/film-cap-electroequip">Film Capacitors (Electronic Equipment Use)</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products/pt/film-cap-electroequip/models">Models</a>
+                      </li>
+                  <li >
+                          <a href="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5">ECHU1C103JX5</a>
+                      </li>
+              </ol>
+    </nav>
+  </div>
+
+<section id="block-sitesearchblock" class="gray-area full-size-area block block-b2b-site-search block-b2b-site-search-block clearfix">
+  
+    
+
+      <form class="site-search-block-form" target="_blank" data-drupal-selector="site-search-block-form-2" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="site-search-block-form--2" accept-charset="UTF-8">
+  
+<section class='head-search'>
+  <div class="head-search-input">
+    <div class="head-search-input-label"><i class="fa fa-search fa-2" aria-hidden="true"></i></div><div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-no-label form-group form-autocomplete">
+  
+  
+  <div class="input-group"><input title="Search by product" placeholder="Search keyword" class="search-keyword form-autocomplete form-text form-control" maxlength="128" data-drupal-selector="edit-keyword" data-autocomplete-path="/ww/model-search/autocomplete" type="text" id="edit-keyword--2" name="keyword" value="" size="60" /><span class="input-group-addon"><span class="icon glyphicon glyphicon-refresh ajax-progress ajax-progress-throbber" aria-hidden="true"></span></span></div>
+
+  
+  
+  </div>
+<button data-drupal-selector="edit-search-button" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-search-button--2" name="op" value="Search
+"><span class="pc">Search</span></button></div>
+  <div class="head-search-btns"><a href="/ww/parametric-search?search_name=Film%20Capacitors%20%28Electronic%20Equipment%20Use%29" class="btn btn-head-search" data-drupal-selector="edit-parametric-search-link" id="edit-parametric-search-link--2">Parametric<br />Search</a><a href="/ww/stock-search" class="btn btn-head-search" data-drupal-selector="edit-stock-search-link" id="edit-stock-search-link--2">Stock Check</a></div>
+</section><input autocomplete="off" data-drupal-selector="form-9caa2uqg9l4mlza9qpw3awjxg3c5qeccoef0zjol-c" type="hidden" name="form_build_id" value="form--9caA2UQG9l4Mlza9qpw3aWJXG3C5QeCcOef0ZjOL_c" /><input data-drupal-selector="edit-site-search-block-form-2" type="hidden" name="form_id" value="site_search_block_form" />
+</form>
+
+  </section>
+
+
+  </div>
+
+          </div>
+              
+            
+                            <div class="region region-product-menu">
+    <section id="block-productmenublock" class="block block-b2b-industrials block-product-menu-block clearfix">
+  
+    
+
+      <form class="product-menu-form" data-drupal-selector="product-menu-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="product-menu-form" accept-charset="UTF-8">
+  <div class="caption">
+  <a href="/ww/products">Products</a>
+</div>
+<ul class="product-menu-block"><li><a href="/ww/products/capacitors" class="menu-depth-0">Capacitors</a><ul class="block-product-menu-submenu menu-depath-0"><li><a href="/ww/products/capacitors/polymer-capacitors" class="menu-depth-1">Conductive Polymer Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/sp-cap/models" class="menu-depth-2">Conductive Polymer Aluminum Electrolytic Capacitors (SP-Cap)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/poscap/models" class="menu-depth-2">Conductive Polymer Tantalum Solid Capacitors (POSCAP)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/os-con/models" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/hybrid-aluminum/models" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/aluminum-capacitors" class="menu-depth-1">Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="https://industrial.panasonic.com/ww/products/pt/os-con" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="https://industrial.panasonic.com/ww/products/pt/hybrid-aluminum" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-smd/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Surface Mount Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-lead/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Radial Lead Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/edlc" class="menu-depth-1">Electric Double Layer Capacitors (Gold Capacitor)</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/edlc-backup-power-supply-modules" class="menu-depth-2">Backup Power Supply Modules with Electric Double Layer Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-coin-type" class="menu-depth-2">Electric Double Layer Capacitors (Multilayer Coin Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-wound-type" class="menu-depth-2">Electric Double Layer Capacitors (Wound Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/film-capacitors" class="menu-depth-1">Film Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/film-cap-electroequip/models" class="menu-depth-2 menu-highlight">Film Capacitors (Electronic Equipment Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/film-cap-acmotor/models" class="menu-depth-2">Film Capacitors (AC Motor Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/automotive-film-cap" class="menu-depth-2">Film Capacitors (Automotive, Industrial and Infrastructure Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li></ul></li></ul><input autocomplete="off" data-drupal-selector="form-xzuc0kk6uouf3eukkqjl9cewsft62mpwnjexsui4dco" type="hidden" name="form_build_id" value="form-XzUc0kk6uouf3EUKkqjl9cEWsfT62mPWnJEXSUI4dCo" /><input data-drupal-selector="edit-product-menu-form" type="hidden" name="form_id" value="product_menu_form" />
+</form>
+
+  </section>
+
+
+  </div>
+
+          </aside>
+                    <!-- marsfinderon: index -->
+
+                  <section class="col-sm-12" id="main-section">
+
+                                      <div class="highlighted">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+                  
+                
+                          <a id="main-content"></a>
+            <div class="region region-content">
+        <h1 class="page-header">ECHU1C103JX5 : Film Capacitors (Electronic Equipment Use)</h1>
+
+  <form class="model-detail-form" data-drupal-selector="model-detail-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="model-detail-form" accept-charset="UTF-8">
+  <div class="product-info-row form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-info-row" id="edit-product-info-row"><div class="product-detail-name-container form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-name-info" id="edit-product-name-info"><h3 data-drupal-selector="edit-lineup-name"><div class="product-detail-name-data-title" data-drupal-selector="edit-title">Product</div>
+<div class="product-detail-name-data-value" data-drupal-selector="edit-value">Film Capacitors (Electronic Equipment Use)</div>
+</h3>
+<h3 data-drupal-selector="edit-series-name"><div class="product-detail-name-data-title" data-drupal-selector="edit-title">Series/Type</div>
+<div class="product-detail-name-data-value" data-drupal-selector="edit-value">ECHU(X)</div>
+</h3>
+<h3 data-drupal-selector="edit-product-number"><div class="product-detail-name-data-title" data-drupal-selector="edit-title">Parts no</div>
+<div class="product-detail-name-data-value" data-drupal-selector="edit-value">ECHU1C103JX5<span class="icon-spacer" data-drupal-selector="edit-spacer"></span>
+</div>
+</h3>
+</div>
+<div class="product-image-container form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-image-container" id="edit-image-container"><div class="product-image-tag" data-target=".image-contents" data-toggle="modal" data-drupal-selector="edit-expand-tag"> Zoom</div>
+<a href="#" data-target=".image-contents" data-toggle="modal" type="button" class="image-right product-image"><img alt="Photo:ECHU1C103JX5" src="/cdbs/www-data/gif/RDI0000/ABD0000SC13.gif" typeof="foaf:Image" class="img-responsive" />
+</a></div>
+</div>
+  
+    <div class="image-contents image-right modal fade" data-drupal-selector="edit-image-modal" id="edit-image-modal--2" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+                  <div class="modal-body">
+                        <img alt="Photo:ECHU1C103JX5" src="/cdbs/www-data/gif/RDI0000/ABD0000SC13.gif" typeof="foaf:Image" class="img-responsive" />
+
+                      </div>
+        </div>
+    </div>
+  </div>
+<div class="product-info-row form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-info-controls-row" id="edit-product-info-controls-row"><div data-drupal-selector="edit-button-container" class="form-group js-form-wrapper form-wrapper" id="edit-button-container"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C173.pdf" target="_blank" class="datasheet btn btn-round btn-primary" data-drupal-selector="edit-datasheet" id="edit-datasheet">Datasheet</a><a href="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5/cad" target="_blank" class="cad-data btn btn-round btn-primary" data-drupal-selector="edit-cad-download" id="edit-cad-download">CAD Data Download</a><button href="#stock-search-title" class="vertical-split btn-primary btn-round btn-anchordowmn button js-form-submit form-submit btn-default btn" id="online-purchase-button" data-drupal-selector="edit-online-purchase-button" type="submit" name="op" value="Stock Check">Stock Check</button></div>
+<a href="/ww/notes" target="_blank" type="button" class="fa fa-check notes-column" hreflang="en">Notes for using technical information</a></div>
+<div data-drupal-selector="edit-free-text" class="form-group js-form-wrapper form-wrapper" id="edit-free-text"><div data-drupal-selector="edit-content"></div>
+</div>
+<div class="product-info-row-wrap form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-info-data-row" id="edit-product-info-data-row"><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" data-drupal-selector="edit-characteristic-values-table" id="edit-characteristic-values-table">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-characteristic-values-table--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-characteristic-values-table--content">Specification</a>
+              </div>
+      
+            
+    
+    <div id="edit-characteristic-values-table--content" class="panel-body panel-collapse collapse fade">
+              <div class="table-responsive">
+<table id="preformance-characteristics-data" class="tablesaw tablesaw-stack responsive-enabled table table-hover table-striped" data-tablesaw-mode="stack" data-drupal-selector="edit-table" data-striping="1">
+  
+  
+      <thead>
+      <tr>
+                        <th>Item</th>
+                      <th>Performance characteristics</th>
+            </tr>
+    </thead>
+  
+      <tbody>
+                      <tr class="odd">
+                      <td>Body Type</td>
+                      <td>Surface mount type</td>
+                  </tr>
+                      <tr class="even">
+                      <td>AC or DC</td>
+                      <td>DC</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Rated voltage (V)</td>
+                      <td>16.0</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Category Temp. Range (°C)</td>
+                      <td>-55 to 125</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Capacitance (µF)</td>
+                      <td>0.010000</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Capacitance tolerance (%)</td>
+                      <td>-5 - 5</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Dielectric material</td>
+                      <td>PPS</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Kind</td>
+                      <td>Film chip capacitor</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Size code (mm (inch))</td>
+                      <td>2012 (0805)</td>
+                  </tr>
+                      <tr class="even">
+                      <td>L Dimension (mm)</td>
+                      <td>2.0</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>T Dimension (mm)</td>
+                      <td>1.25</td>
+                  </tr>
+                      <tr class="even">
+                      <td>H Dimension (mm)</td>
+                      <td>1.1</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Lead spacing (mm)</td>
+                      <td>-</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Shape of lead wire</td>
+                      <td>Non lead wire</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Packaging</td>
+                      <td>8.0W180A emboss taping (reel packing)</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Minimum packaging quantity</td>
+                      <td>3000</td>
+                  </tr>
+                      <tr class="odd">
+                      <td>Weight (Typ.) (g)</td>
+                      <td>0.01000</td>
+                  </tr>
+          </tbody>
+    </table>
+  </div>
+<button id="specification-close-button" class="btn-outline-primary btn-round button btn-close js-form-submit form-submit btn-default btn" type="submit" data-drupal-selector="edit-close" name="op" value="Close">Close</button>
+          </div>
+  
+    
+</div>
+<div class="file-container js-form-wrapper form-wrapper form-item js-form-item panel panel-default" data-drupal-selector="edit-files" id="edit-files">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-files--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-files--content">Documents</a>
+              </div>
+      
+            
+    
+    <div id="edit-files--content" class="panel-body panel-collapse collapse fade">
+            <div class="document-area" data-drupal-selector="edit-files"><div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-catalogdatasheet" id="edit-catalogdatasheet"><div class="document-title" data-drupal-selector="edit-title">[Catalog/Datasheet]</div>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C173.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Datasheet(859KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-152809.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products Catalog (Film Capacitors)(23471KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-333091.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">High temp, 85℃-85% specified products Sell Sheet(630KB)</span>
+</a></div>
+</div>
+<div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-specifications" id="edit-product-specifications"><div class="document-title" data-drupal-selector="edit-title">[Product Specifications]</div>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL78.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products list(741KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/ww/products-cap/film-capacitors/specification" alt="" target="_blank"><span class="file file--mime-application-octet-stream file--general">Specification sheet / drawing</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL24.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Packaging Specifications (Taping)(264KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-3"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL75.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Permissible AC voltage corresponding to DC rated voltage(134KB)</span>
+</a></div>
+</div>
+<div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-technical-information" id="edit-technical-information"><div class="document-title" data-drupal-selector="edit-title">[Technical Information]</div>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/ww/products-ec/smd-film-capacitor/smd-film-capacitor/index" alt="" target="_blank"><span class="file file--mime-application-octet-stream file--general">Surface Mounted Film Capacitor Application Guide</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000COS2.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Technical Data(ECHU(X) Series)(189KB)</span>
+</a></div>
+</div>
+<div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-safety-environmental-information" id="edit-safety-environmental-information"><div class="document-title" data-drupal-selector="edit-title">[Safety / Environmental information]</div>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-cgi/auto-publishing.cgi?type=RODU&amp;region=WW&amp;layer=5&amp;cd=ECHU1C103JX5" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Letter for Certificate of Compliance to EU RoHS Directive (ECHU1C103JX5)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-cgi/auto-publishing.cgi?type=REDU&amp;region=WW&amp;layer=5&amp;cd=ECHU1C103JX5" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Report of Confirmation of EU REACH (ECHU1C103JX5)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-cgi/auto-publishing.cgi?type=ROSU&amp;region=WW&amp;layer=4&amp;cd=ABD0013" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Letter for Certificate of Compliance to EU RoHS Directive (ECHU(X))</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-3"><a href="https://industrial.panasonic.com/cdbs/www-cgi/auto-publishing.cgi?type=RESU&amp;region=WW&amp;layer=4&amp;cd=ABD0013" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Report of Confirmation of EU REACH (ECHU(X))</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-4"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL17.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Safety Precautions(762KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-5"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-207501.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Packaging material list (for Italy）(409KB)</span>
+</a></div>
+</div>
+<div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-other" id="edit-other"><div class="document-title" data-drupal-selector="edit-title">[Other]</div>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/ww/iso_ts_certification" alt="" target="_blank"><span class="file file--mime-application-octet-stream file--general">Certification by public institutions(ISO,IATF)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL69.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Production location(161KB)</span>
+</a></div>
+<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/RDI0000COL83.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Discontinued Series(129KB)</span>
+</a></div>
+</div>
+</div>
+<button id="files-close-button" class="btn-outline-primary btn-round button btn-close js-form-submit form-submit btn-default btn" type="submit" data-drupal-selector="edit-close" name="op" value="Close">Close</button>
+          </div>
+  
+    
+</div>
+</div>
+<input autocomplete="off" data-drupal-selector="form-wrichvqm3se7wsul8-ilosdctsfnvbb9xzuqrkhcrmc" type="hidden" name="form_build_id" value="form-wRiChVqM3se7wsUl8-ilOsdctSfNVBB9xzuqRKHCRMc" /><input data-drupal-selector="edit-model-detail-form" type="hidden" name="form_id" value="model_detail_form" />
+</form>
+<form class="stock-search-resulsts-form" data-drupal-selector="stock-search-resulsts-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="stock-search-resulsts-form" accept-charset="UTF-8">
+  <div id="stock-search-title" data-drupal-selector="edit-stock-search-results-scroll-to" class="form-group js-form-wrapper form-wrapper"><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" data-drupal-selector="edit-stock-search-results" id="edit-stock-search-results">
+
+              <div class="panel-heading">
+                          <a aria-controls="edit-stock-search-results--content" aria-expanded="false" aria-pressed="false" data-toggle="collapse" role="button" class="panel-title" href="#edit-stock-search-results--content">Stock Check</a>
+              </div>
+      
+            
+    
+    <div id="edit-stock-search-results--content" class="panel-body panel-collapse collapse fade">
+            <div id="edit-message-1" class="form-item js-form-item form-type-item js-form-type-item form-item-message-1 js-form-item-message-1 form-no-label form-group">
+  
+  
+  <p><strong>Terms of Use</strong></p>
+<p>*This is the system to search for the inventory of the distributors handling our products.<br />
+You can utilize this for purchasing samples and so on.<br />
+*Please check directly with the distributors about their product line-up, purchase unit and business conditions.</p>
+
+  
+  
+  </div>
+<div id="stock-search-results" data-drupal-selector="edit-contents" class="form-group js-form-wrapper form-wrapper"><button class="button-search-submit btn-primary btn-search button js-form-submit form-submit btn-default btn" data-drupal-selector="edit-button" type="submit" id="edit-button" name="op" value="Stock Check">Stock Check</button><input data-drupal-selector="edit-type" type="hidden" name="type" value="2" /><input data-drupal-selector="edit-model" type="hidden" name="model" value="ECHU1C103JX5" /><input data-drupal-selector="edit-location" type="hidden" name="location" value="ALL" /><input data-drupal-selector="edit-langcode" type="hidden" name="langcode" value="en" /><input data-drupal-selector="edit-stock-search-page" type="hidden" name="stock_search_page" value="1" /></div>
+<button id="stock-close-button" class="btn-outline-primary btn-round button btn-close js-form-submit form-submit btn-default btn" type="submit" data-drupal-selector="edit-close" name="op" value="Close">Close</button>
+          </div>
+  
+    
+</div>
+</div>
+<input autocomplete="off" data-drupal-selector="form-pt2-ktve027bfp6fp8yascbzt8kww2dzfliqikg8wy4" type="hidden" name="form_build_id" value="form-PT2-Ktve027Bfp6fp8YasCbZT8kWw2dZfLIqiKg8wY4" /><input data-drupal-selector="edit-stock-search-resulsts-form" type="hidden" name="form_id" value="stock_search_resulsts_form" />
+</form>
+
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+
+  <!-- marsfinderoff: index -->
+      <footer class="footer container" role="contentinfo">
+        <div class="region region-footer">
+    <section id="block-footerblock" class="block block-b2b-industrials block-footer-block clearfix">
+  
+    
+
+      <form class="footer-form" data-drupal-selector="footer-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="footer-form" accept-charset="UTF-8">
+    <div id="footer-precaution">
+          <a href="/ww/notes" target="_blank" type="button" rel="noopener" id="footer-precaution-link" hreflang="en">Before using/employing our products</a>
+      </div>
+<div id="footer" class="page footer" role="contentinfo" aria-label="footer">
+  <div class="footer-inner nocontent">
+    <div class="footer-top-wrapper">
+      <div id="business-link" class="footer-top-link">
+        <ul class="footer-top"></ul>
+      </div>
+    </div>
+    <div class="footer-bottom-wrapper">
+      <div class="action-links-wrapper">
+        <div class="footer-bottom-link-wrapper" role="navigation">
+                                    <a href="https://www.panasonic.com/global/industry.html" target="_blank">About Us</a>
+            
+                          &nbsp;|&nbsp;
+                                                <a href="/ww/sitemap">Sitemap</a>
+            
+                          &nbsp;|&nbsp;
+                                                <a href="/ww/terms-of-use">Terms of use</a>
+            
+                          &nbsp;|&nbsp;
+                                                <a href="/ww/privacy">Privacy Policy</a>
+            
+                          &nbsp;|&nbsp;
+                                                <a href="/ww/cookies-policy">Cookie Policy</a>
+            
+                          &nbsp;|&nbsp;
+                                                <a href="/ww/ccpa-opt-out">Do Not Sell or Share My Personal Information</a>
+            
+                              </div>
+        <div class="footer-bottom-link-wrapper" role="navigation">
+                        <a href="https://holdings.panasonic/global/">Panasonic Holdings</a>
+                              </div>
+        <ul class="action-links">
+         <li class="area-country-link">
+           <a href="https://www.panasonic.com/global/global-network.html">
+             Area / Country
+           </a>
+         </li>
+        </ul>
+      </div>
+      <div class="copyright-wrapper">
+        Panasonic Industry Co., Ltd.<br><br>
+Copyright © Panasonic Industry
+      </div>
+      <div id="social_media_links_div">
+                              </div>
+    </div>
+  </div>
+</div><input autocomplete="off" data-drupal-selector="form-0x-vhidrgk0xgaavo5fukzqr3dyeczo1gozrb2htq6o" type="hidden" name="form_build_id" value="form-0X_vHIDrgK0xGaaVO5fUkZqr3DYEczo1gOZrb2HTQ6o" /><input data-drupal-selector="edit-footer-form" type="hidden" name="form_id" value="footer_form" />
+</form>
+
+  </section>
+
+
+  </div>
+
+    </footer>
+    <div class="float-button__wrap">
+      <a href="#"></a>
+    </div>
+    <!-- marsfinderon: index -->
+
+  </div>
+
+      
+    </div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ww\/","currentPath":"products\/pt\/film-cap-electroequip\/models\/ECHU1C103JX5","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"b2b_industrials\/industrials.document,b2b_industrials\/industrials.footer,b2b_industrials\/industrials.global_navigation,b2b_industrials\/industrials.header,b2b_industrials\/industrials.model,b2b_industrials\/industrials.productmenu,b2b_model_detail\/model_detail,b2b_site_search\/site_search_block,b2b_stock_search\/b2b_stock_search_results,bootstrap\/modal,bootstrap\/popover,bootstrap\/tooltip,cookiepro\/cookiepro,core\/drupal.ajax,core\/drupal.autocomplete,core\/drupal.collapse,core\/drupal.tableresponsive,core\/internal.jquery.form,extlink\/drupal.extlink,industrials\/global-styling,industrials\/region.ww,system\/base","theme":"industrials","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/ww\/stock-search\/ajax":true},"multiselect":{"widths":250},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"industrial\\.panasonic\\.(com|cn)|ais2sr02web001\\.crm\\.pisc\\.jp\\.panasonic\\.com","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)"}},"cookiepro":{"13":{"script":{"type":"text\/javascript"},"value":"\r\n  const excludes = [\r\n    \u0022\/ww\/ds\/library\/Privacy-policy\u0022,\r\n    \u0022\/sa\/ds\/library\/Privacy-policy\u0022,\r\n  ];\r\n  if (excludes.indexOf(location.pathname) == -1) {\r\n  \r\n    const script1 = document.createElement(\u0022script\u0022);\r\n    script1.type = \u0022text\/javascript\u0022;\r\n    script1.src = \u0022https:\/\/cdn-au.onetrust.com\/consent\/a9e27793-6cf2-4764-9f6d-41badb794a72\/OtAutoBlock.js\u0022;\r\n    \r\n    const script2 = document.createElement(\u0022script\u0022);\r\n    script2.type = \u0022text\/javascript\u0022;\r\n    script2.src = \u0022https:\/\/cdn-au.onetrust.com\/scripttemplates\/otSDKStub.js\u0022;\r\n    script2.setAttribute(\u0022charset\u0022, \u0022UTF-8\u0022);\r\n    script2.setAttribute(\u0022data-document-language\u0022, true);\r\n    script2.setAttribute(\u0022data-domain-script\u0022, \u0022a9e27793-6cf2-4764-9f6d-41badb794a72\u0022);\r\n    \r\n    const script3 = document.createElement(\u0022script\u0022);\r\n    script3.type = \u0022text\/javascript\u0022;\r\n    script3.innerHTML = \u0022function OptanonWrapper() { };\u0022;\r\n    \r\n    var headTag = document.getElementsByTagName(\u0022head\u0022)[0];\r\n    headTag.appendChild(script1);\r\n    headTag.appendChild(script2);\r\n    headTag.appendChild(script3);\r\n  }\r\n"}},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"b2b_stock_search":{"data":{"type":2,"model":"ECHU1C103JX5","langcode":"en","stock_search_page":false}},"ajax":{"edit-button":{"wrapper":"stock-search-results","url":"\/ww\/stock-search\/ajax","progress":{"type":"stocksearch"},"event":"mousedown","keypress":true,"prevent":"click","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Stock Check"}}},"user":{"uid":0,"permissionsHash":"eaa40ebdddd19dc390a840a0151527edfefc6c28b69dabf59533edba1d502281"}}</script>
+<script src="/content/js/js_m1Ih_R1u2sgueI9RCOmbpopLVcZ9muBfhpnBw200CPY.js"></script>
+
+  </body>
+</html>
