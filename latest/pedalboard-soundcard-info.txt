@@ -1,15 +1,15 @@
 KiBot installation checker
 
 Core:
-Linux: 6.5.0.1025 (Linux cc7d676ab082 6.5.0-1025-azure #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024 x86_64 GNU/Linux)
+Linux: 6.5.0.1025 (Linux 3d045b3a75f1 6.5.0-1025-azure #26~22.04.1-Ubuntu SMP Thu Jul 11 22:33:04 UTC 2024 x86_64 GNU/Linux)
   /usr/bin/uname
 Python: 3.11.2 (main, Aug 26 2024, 07:20:54) [GCC 12.2.0]
   /usr/lib/python3.11/os.py
   /usr/bin/python3
-KiCad: 8.0.4+1
+KiCad: 8.0.6+1
   /usr/lib/python3/dist-packages/pcbnew.py
   /usr/bin/kicad
-Kibot: 1.8.1
+Kibot: 1.8.2
   /usr/lib/python3/dist-packages/kibot/__main__.py
   /usr/bin/kibot
 
@@ -56,7 +56,7 @@ KiCad PCB/SCH Diff (kidiff): 2.5.5 (kicad-diff.py 2.5.5 - Copyright 2020-2024, I
   /usr/bin/kicad-diff.py
 KiCost: 1.1.19 (KiCost v1.1.19)
   /usr/bin/kicost
-KiKit: 1.6.0.3 (kikit, version 1.6.0-3)
+KiKit: 1.6.0.4 (kikit, version 1.6.0-4)
   /usr/bin/kikit
 OpenSCAD: 2021.1.0 (OpenSCAD version 2021.01)
   /usr/bin/openscad
@@ -148,7 +148,7 @@ Installed at: /usr/bin/pcbnew_do
 Using kiauto module from: /usr/lib/python3/dist-packages/kiauto
 Interpreted by Python: /usr/bin/python3 (v3.11.2 (main, Aug 26 2024, 07:20:54) [GCC 12.2.0])
 Tools:
-- kicad: /usr/bin/kicad (v8.0.4+1)
+- kicad: /usr/bin/kicad (v8.0.6+1)
 - xdotool: /usr/bin/xdotool
 - recordmydesktop: /usr/bin/recordmydesktop
 - xsltproc: /usr/bin/xsltproc

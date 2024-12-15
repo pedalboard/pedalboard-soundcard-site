@@ -586,7 +586,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C21"],
-["Value = 2,2nF50V"],
+["Value = 2n2"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829"],
@@ -602,7 +602,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = X1"],
-["Value = 22.5792Mhz"],
+["Value = 22.5792M"],
 ["Footprint = Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"],
 ["Datasheet = https://abracon.com/Oscillators/ASCO.pdf", "https://abracon.com/Oscillators/ASCO.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/abracon-llc/ASV-22-5792MHZ-LR-T/15995980", "https://www.digikey.ch/de/products/detail/abracon-llc/ASV-22-5792MHZ-LR-T/15995980"],
@@ -666,7 +666,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C3"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -682,7 +682,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C16"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -698,7 +698,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C32"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -746,7 +746,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = X2"],
-["Value = 24.576Mhz"],
+["Value = 24.576M"],
 ["Footprint = Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"],
 ["Datasheet = https://abracon.com/Oscillators/ASCO.pdf", "https://abracon.com/Oscillators/ASCO.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/abracon-llc/ASDMB-24-576MHZ-LC-T/2809941", "https://www.digikey.ch/de/products/detail/abracon-llc/ASDMB-24-576MHZ-LC-T/2809941"],
@@ -762,7 +762,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = D2"],
-["Value = LED"],
+["Value = red"],
 ["Footprint = LED_0805_2012Metric"],
 ["part = LED"],
 ]\);) >>
@@ -776,7 +776,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C14"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -792,7 +792,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C28"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -808,7 +808,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C11"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -824,7 +824,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C4"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -856,7 +856,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C7"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -886,7 +886,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C24"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -916,7 +916,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C6"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -948,7 +948,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C23"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -980,7 +980,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C9"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1028,7 +1028,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C26"],
-["Value = 2,2nF50V"],
+["Value = 2n2"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829"],
@@ -1060,7 +1060,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C5"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1076,7 +1076,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C13"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1122,7 +1122,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C15"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1138,7 +1138,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C30"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1154,7 +1154,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C25"],
-["Value = 2,2nF50V"],
+["Value = 2n2"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829"],
@@ -1186,7 +1186,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C31"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1216,7 +1216,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = D1"],
-["Value = LED"],
+["Value = red"],
 ["Footprint = LED_0805_2012Metric"],
 ["part = LED"],
 ]\);) >>
@@ -1264,7 +1264,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C8"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1344,7 +1344,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C34"],
-["Value = 10nF"],
+["Value = 10n_film"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5", "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5"],
 ["Description = Film Capacitor"],
@@ -1362,7 +1362,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C12"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1378,7 +1378,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C22"],
-["Value = 2,2nF50V"],
+["Value = 2n2"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B222KBANNNC/3886829"],
@@ -1394,7 +1394,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C27"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1470,7 +1470,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C29"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -1552,7 +1552,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C1"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -1568,7 +1568,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C33"],
-["Value = 10nF"],
+["Value = 10n_film"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5", "https://industrial.panasonic.com/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5"],
 ["Description = Film Capacitor"],
@@ -1618,7 +1618,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C20"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -1666,7 +1666,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C10"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1714,7 +1714,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C18"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1776,7 +1776,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C19"],
-["Value = 100nF25V"],
+["Value = 100n"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661"],
@@ -1792,7 +1792,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C2"],
-["Value = 10uF16V"],
+["Value = 10u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21X106KAYNNNE/5961182"],
@@ -1840,7 +1840,7 @@ endobj
 /Border [16 16 0]
 /A << /Type /Action /S /JavaScript /JS (ShM\([
 ["Reference designator = C17"],
-["Value = 1uF16V"],
+["Value = 1u"],
 ["Footprint = C_0805_2012Metric"],
 ["Datasheet = https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf", "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"],
 ["Supplier = https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724", "https://www.digikey.ch/de/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724"],
@@ -1913,7 +1913,7 @@ endobj
 289 0 obj
 <<
 /Producer (KiCad PDF)
-/CreationDate (D:20241017104215)
+/CreationDate (D:20241215132659)
 /Creator (PCBNEW)
 /Title (pedalboard-soundcard-B_Courtyard.pdf)
 >>
@@ -2776,10 +2776,10 @@ endobj
 xref
 0 292
 0000000000 65535 f 
-0000063802 00000 n 
+0000063674 00000 n 
 0000011430 00000 n 
 0000011547 00000 n 
-0000063233 00000 n 
+0000063105 00000 n 
 0000000015 00000 n 
 0000004135 00000 n 
 0000011568 00000 n 
@@ -2792,283 +2792,283 @@ xref
 0000014278 00000 n 
 0000014526 00000 n 
 0000015111 00000 n 
-0000015763 00000 n 
-0000016358 00000 n 
-0000016640 00000 n 
-0000017345 00000 n 
-0000017931 00000 n 
-0000018581 00000 n 
-0000019235 00000 n 
-0000019888 00000 n 
-0000020472 00000 n 
-0000021056 00000 n 
-0000021650 00000 n 
-0000021915 00000 n 
-0000022569 00000 n 
-0000023223 00000 n 
-0000023877 00000 n 
-0000024529 00000 n 
-0000025115 00000 n 
-0000025767 00000 n 
-0000026050 00000 n 
-0000026702 00000 n 
-0000026985 00000 n 
-0000027637 00000 n 
-0000028223 00000 n 
-0000028874 00000 n 
-0000029459 00000 n 
-0000030110 00000 n 
-0000030717 00000 n 
-0000031303 00000 n 
-0000031957 00000 n 
-0000032541 00000 n 
-0000033193 00000 n 
-0000033845 00000 n 
-0000034431 00000 n 
-0000034749 00000 n 
-0000035402 00000 n 
-0000036054 00000 n 
-0000036708 00000 n 
-0000037292 00000 n 
-0000037943 00000 n 
-0000038192 00000 n 
-0000038457 00000 n 
-0000039065 00000 n 
-0000039770 00000 n 
-0000040422 00000 n 
-0000041008 00000 n 
-0000041403 00000 n 
-0000041988 00000 n 
-0000042574 00000 n 
-0000043306 00000 n 
-0000043959 00000 n 
-0000044613 00000 n 
-0000045264 00000 n 
-0000045850 00000 n 
-0000046133 00000 n 
-0000046382 00000 n 
-0000046968 00000 n 
-0000047621 00000 n 
-0000048228 00000 n 
-0000048809 00000 n 
-0000049512 00000 n 
-0000050098 00000 n 
-0000050751 00000 n 
-0000051482 00000 n 
-0000052067 00000 n 
-0000052652 00000 n 
-0000053306 00000 n 
-0000053892 00000 n 
-0000054477 00000 n 
-0000055129 00000 n 
-0000055714 00000 n 
-0000056298 00000 n 
-0000056950 00000 n 
-0000057199 00000 n 
-0000057783 00000 n 
-0000058367 00000 n 
-0000059021 00000 n 
-0000059671 00000 n 
-0000060256 00000 n 
-0000061004 00000 n 
-0000061656 00000 n 
-0000062445 00000 n 
+0000015758 00000 n 
+0000016351 00000 n 
+0000016633 00000 n 
+0000017338 00000 n 
+0000017924 00000 n 
+0000018570 00000 n 
+0000019220 00000 n 
+0000019869 00000 n 
+0000020453 00000 n 
+0000021037 00000 n 
+0000021629 00000 n 
+0000021894 00000 n 
+0000022544 00000 n 
+0000023194 00000 n 
+0000023844 00000 n 
+0000024492 00000 n 
+0000025078 00000 n 
+0000025726 00000 n 
+0000026009 00000 n 
+0000026657 00000 n 
+0000026940 00000 n 
+0000027588 00000 n 
+0000028174 00000 n 
+0000028821 00000 n 
+0000029406 00000 n 
+0000030053 00000 n 
+0000030660 00000 n 
+0000031246 00000 n 
+0000031895 00000 n 
+0000032479 00000 n 
+0000033127 00000 n 
+0000033775 00000 n 
+0000034361 00000 n 
+0000034679 00000 n 
+0000035328 00000 n 
+0000035976 00000 n 
+0000036625 00000 n 
+0000037209 00000 n 
+0000037856 00000 n 
+0000038105 00000 n 
+0000038370 00000 n 
+0000038978 00000 n 
+0000039683 00000 n 
+0000040331 00000 n 
+0000040917 00000 n 
+0000041312 00000 n 
+0000041897 00000 n 
+0000042483 00000 n 
+0000043219 00000 n 
+0000043868 00000 n 
+0000044517 00000 n 
+0000045164 00000 n 
+0000045750 00000 n 
+0000046033 00000 n 
+0000046282 00000 n 
+0000046868 00000 n 
+0000047517 00000 n 
+0000048124 00000 n 
+0000048705 00000 n 
+0000049408 00000 n 
+0000049994 00000 n 
+0000050643 00000 n 
+0000051378 00000 n 
+0000051963 00000 n 
+0000052548 00000 n 
+0000053198 00000 n 
+0000053784 00000 n 
+0000054369 00000 n 
+0000055017 00000 n 
+0000055602 00000 n 
+0000056186 00000 n 
+0000056834 00000 n 
+0000057083 00000 n 
+0000057667 00000 n 
+0000058251 00000 n 
+0000058901 00000 n 
+0000059547 00000 n 
+0000060132 00000 n 
+0000060880 00000 n 
+0000061528 00000 n 
+0000062317 00000 n 
 0000004155 00000 n 
 0000004807 00000 n 
 0000005011 00000 n 
-0000072331 00000 n 
-0000072221 00000 n 
+0000072203 00000 n 
+0000072093 00000 n 
 0000005059 00000 n 
-0000067893 00000 n 
+0000067765 00000 n 
 0000005124 00000 n 
-0000067803 00000 n 
+0000067675 00000 n 
 0000005189 00000 n 
-0000067623 00000 n 
+0000067495 00000 n 
 0000005254 00000 n 
-0000067713 00000 n 
+0000067585 00000 n 
 0000005319 00000 n 
-0000067983 00000 n 
+0000067855 00000 n 
 0000005383 00000 n 
-0000068433 00000 n 
+0000068305 00000 n 
 0000005448 00000 n 
-0000070793 00000 n 
+0000070665 00000 n 
 0000005513 00000 n 
-0000071425 00000 n 
+0000071297 00000 n 
 0000005578 00000 n 
-0000070160 00000 n 
+0000070032 00000 n 
 0000005643 00000 n 
-0000065171 00000 n 
+0000065043 00000 n 
 0000005708 00000 n 
-0000072055 00000 n 
+0000071927 00000 n 
 0000005773 00000 n 
-0000067531 00000 n 
+0000067403 00000 n 
 0000005838 00000 n 
-0000071605 00000 n 
+0000071477 00000 n 
 0000005903 00000 n 
-0000069251 00000 n 
+0000069123 00000 n 
 0000005968 00000 n 
-0000065990 00000 n 
+0000065862 00000 n 
 0000006033 00000 n 
-0000064626 00000 n 
+0000064498 00000 n 
 0000006098 00000 n 
-0000066262 00000 n 
+0000066134 00000 n 
 0000006163 00000 n 
-0000070613 00000 n 
+0000070485 00000 n 
 0000006228 00000 n 
-0000068705 00000 n 
+0000068577 00000 n 
 0000006293 00000 n 
-0000072145 00000 n 
+0000072017 00000 n 
 0000006358 00000 n 
-0000067165 00000 n 
+0000067037 00000 n 
 0000006423 00000 n 
-0000064444 00000 n 
+0000064316 00000 n 
 0000006488 00000 n 
-0000065808 00000 n 
+0000065680 00000 n 
 0000006553 00000 n 
-0000064171 00000 n 
+0000064043 00000 n 
 0000006618 00000 n 
-0000066535 00000 n 
+0000066407 00000 n 
 0000006683 00000 n 
-0000068796 00000 n 
+0000068668 00000 n 
 0000006748 00000 n 
-0000066805 00000 n 
+0000066677 00000 n 
 0000006813 00000 n 
-0000067255 00000 n 
+0000067127 00000 n 
 0000006878 00000 n 
-0000065444 00000 n 
+0000065316 00000 n 
 0000006943 00000 n 
-0000067347 00000 n 
+0000067219 00000 n 
 0000007008 00000 n 
-0000066715 00000 n 
+0000066587 00000 n 
 0000007073 00000 n 
-0000069524 00000 n 
+0000069396 00000 n 
 0000007138 00000 n 
-0000065353 00000 n 
+0000065225 00000 n 
 0000007203 00000 n 
-0000068887 00000 n 
+0000068759 00000 n 
 0000007268 00000 n 
-0000066985 00000 n 
+0000066857 00000 n 
 0000007333 00000 n 
-0000068253 00000 n 
+0000068125 00000 n 
 0000007398 00000 n 
-0000068978 00000 n 
+0000068850 00000 n 
 0000007463 00000 n 
-0000065626 00000 n 
+0000065498 00000 n 
 0000007528 00000 n 
-0000068615 00000 n 
+0000068487 00000 n 
 0000007593 00000 n 
-0000066625 00000 n 
+0000066497 00000 n 
 0000007658 00000 n 
-0000064353 00000 n 
+0000064225 00000 n 
 0000007723 00000 n 
-0000069160 00000 n 
+0000069032 00000 n 
 0000007788 00000 n 
-0000071063 00000 n 
+0000070935 00000 n 
 0000007853 00000 n 
-0000064535 00000 n 
+0000064407 00000 n 
 0000007918 00000 n 
-0000066080 00000 n 
+0000065952 00000 n 
 0000007983 00000 n 
-0000065535 00000 n 
+0000065407 00000 n 
 0000008048 00000 n 
-0000069978 00000 n 
+0000069850 00000 n 
 0000008113 00000 n 
-0000066171 00000 n 
+0000066043 00000 n 
 0000008178 00000 n 
-0000071155 00000 n 
+0000071027 00000 n 
 0000008243 00000 n 
-0000067075 00000 n 
+0000066947 00000 n 
 0000008308 00000 n 
-0000071965 00000 n 
+0000071837 00000 n 
 0000008373 00000 n 
-0000071875 00000 n 
+0000071747 00000 n 
 0000008438 00000 n 
-0000066895 00000 n 
+0000066767 00000 n 
 0000008503 00000 n 
-0000069796 00000 n 
+0000069668 00000 n 
 0000008568 00000 n 
-0000068524 00000 n 
+0000068396 00000 n 
 0000008633 00000 n 
-0000070883 00000 n 
+0000070755 00000 n 
 0000008698 00000 n 
-0000069069 00000 n 
+0000068941 00000 n 
 0000008763 00000 n 
-0000066444 00000 n 
+0000066316 00000 n 
 0000008828 00000 n 
-0000064262 00000 n 
+0000064134 00000 n 
 0000008893 00000 n 
-0000065262 00000 n 
+0000065134 00000 n 
 0000008958 00000 n 
-0000065717 00000 n 
+0000065589 00000 n 
 0000009023 00000 n 
-0000069887 00000 n 
+0000069759 00000 n 
 0000009088 00000 n 
-0000067439 00000 n 
+0000067311 00000 n 
 0000009153 00000 n 
-0000071335 00000 n 
+0000071207 00000 n 
 0000009218 00000 n 
-0000069433 00000 n 
+0000069305 00000 n 
 0000009283 00000 n 
-0000065899 00000 n 
+0000065771 00000 n 
 0000009348 00000 n 
-0000068343 00000 n 
+0000068215 00000 n 
 0000009413 00000 n 
-0000071785 00000 n 
+0000071657 00000 n 
 0000009478 00000 n 
-0000071695 00000 n 
+0000071567 00000 n 
 0000009543 00000 n 
-0000070251 00000 n 
+0000070123 00000 n 
 0000009608 00000 n 
-0000064004 00000 n 
+0000063876 00000 n 
 0000009673 00000 n 
-0000066353 00000 n 
+0000066225 00000 n 
 0000009738 00000 n 
-0000070433 00000 n 
+0000070305 00000 n 
 0000009803 00000 n 
-0000070342 00000 n 
+0000070214 00000 n 
 0000009868 00000 n 
-0000065080 00000 n 
+0000064952 00000 n 
 0000009933 00000 n 
-0000069342 00000 n 
+0000069214 00000 n 
 0000009998 00000 n 
-0000070069 00000 n 
+0000069941 00000 n 
 0000010063 00000 n 
-0000064080 00000 n 
+0000063952 00000 n 
 0000010128 00000 n 
-0000069705 00000 n 
+0000069577 00000 n 
 0000010193 00000 n 
-0000070973 00000 n 
+0000070845 00000 n 
 0000010258 00000 n 
-0000064808 00000 n 
+0000064680 00000 n 
 0000010323 00000 n 
-0000071245 00000 n 
+0000071117 00000 n 
 0000010388 00000 n 
-0000070703 00000 n 
+0000070575 00000 n 
 0000010453 00000 n 
-0000069615 00000 n 
+0000069487 00000 n 
 0000010518 00000 n 
-0000064899 00000 n 
+0000064771 00000 n 
 0000010583 00000 n 
-0000064990 00000 n 
+0000064862 00000 n 
 0000010648 00000 n 
-0000070523 00000 n 
+0000070395 00000 n 
 0000010713 00000 n 
-0000071515 00000 n 
+0000071387 00000 n 
 0000010778 00000 n 
-0000064717 00000 n 
+0000064589 00000 n 
 0000010843 00000 n 
-0000068163 00000 n 
+0000068035 00000 n 
 0000010908 00000 n 
-0000068073 00000 n 
+0000067945 00000 n 
 0000010973 00000 n 
 0000011081 00000 n 
 0000011197 00000 n 
 0000011310 00000 n 
-0000063862 00000 n 
-0000072436 00000 n 
-0000072523 00000 n 
+0000063734 00000 n 
+0000072308 00000 n 
+0000072395 00000 n 
 trailer
 << /Size 292 /Root 291 0 R /Info 289 0 R >>
 startxref
-72666
+72538
 %%EOF
