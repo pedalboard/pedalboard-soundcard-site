@@ -16,8 +16,8 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 15,"250mA low-noise LDO, 2.2V-5.5V input, 3.3V output, SOT-23-5",NCP163ASN330T1G,U2 U3 U5,NCP163,SOT-23-5,3, ,https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf,https://www.digikey.ch/de/products/detail/onsemi/NCP163ASN330T1G/9694661
 16,,PCM1863DBT-pcm1863,U4,PCM1863DBT,TSSOP-30_4.4x7.8mm_P0.5mm,1, ,https://www.ti.com/lit/ds/symlink/pcm1863.pdf,https://www.digikey.ch/de/products/detail/texas-instruments/PCM1863DBT/4895616
 17,,PCM5242RHBR-pcm5242,U6,PCM5242RHBR,HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias,1, ,https://www.ti.com/lit/ds/symlink/pcm5242.pdf,https://www.digikey.ch/de/products/detail/texas-instruments/PCM5242RHBR/6571831
-18,,ASCO-Oscillator,X1,22.5792M,Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,1, ,https://abracon.com/Oscillators/ASCO.pdf,https://www.digikey.ch/de/products/detail/abracon-llc/ASV-22-5792MHZ-LR-T/15995980
-19,,ASCO-Oscillator,X2,24.576M,Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,1, ,https://abracon.com/Oscillators/ASCO.pdf,https://www.digikey.ch/de/products/detail/abracon-llc/ASDMB-24-576MHZ-LC-T/2809941
+18,,ASCO-Oscillator,X1,22.5792M,Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,1, ,https://media.digikey.com/pdf/Data%20Sheets/Kyocera%20International/Z_Series_X_Type.pdf,https://www.digikey.ch/en/products/detail/kyocera-avx/KC2016Z22-5792C1KX00/11610237
+19,,ASCO-Oscillator,X2,24.576M,Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm,1, ,https://media.digikey.com/pdf/Data%20Sheets/Kyocera%20International/Z_Series_X_Type.pdf,https://www.digikey.ch/en/products/detail/kyocera-avx/KC2016Z24-5760C1KX00/11610181
 
 
 
