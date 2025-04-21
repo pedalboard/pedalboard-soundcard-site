@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('pedalboard-soundcard-3D.step','2025-04-21T13:17:41',('Pcbnew'
+FILE_NAME('pedalboard-soundcard-3D.step','2025-04-21T13:20:22',('Pcbnew'
     ),('Kicad'),'Open CASCADE STEP processor 7.6',
   'KiCad to STEP converter','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
@@ -72382,7 +72382,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #70180 = PRODUCT_DEFINITION_SHAPE('','',#70181);
 #70181 = PRODUCT_DEFINITION('design','',#70182,#70185);
 #70182 = PRODUCT_DEFINITION_FORMATION('','',#70183);
-#70183 = PRODUCT('kibot_s5cccqei_PCB','kibot_s5cccqei_PCB','',(#70184));
+#70183 = PRODUCT('kibot_micdyk5b_PCB','kibot_micdyk5b_PCB','',(#70184));
 #70184 = PRODUCT_CONTEXT('',#2,'mechanical');
 #70185 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #70186 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#70187),#75883);
