@@ -20,7 +20,7 @@
 <link rel="icon" href="/content/favicon.ico" type="image/vnd.microsoft.icon" />
 
     <title>ECHU1C103JX5 - Film Capacitors (Electronic Equipment Use) - Film Capacitors - Panasonic</title>
-    <link rel="stylesheet" media="all" href="/content/css/css_wDlqmPDdbpijm25sGRqKbU8OL7rf85E88-VOqutRzIo.css" />
+    <link rel="stylesheet" media="all" href="/content/css/css_lO3nZdswcZbSCeepQ3ZM0LIVj3zRTHuFEndgw4sO0Js.css" />
 <link rel="stylesheet" media="all" href="/content/css/css_RX04CyNfbAsnV_C0p6vP-frpSl-jOhQT-4LGEo0U-MA.css" />
 
   </head>
@@ -690,6 +690,11 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
+                                            <a href="/ww/downloads/simulation-data/film-capacitors" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+            Film Capacitors (Automotive, Industrial and Infrastructure Use)
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
                                             <a href="/ww/downloads/simulation-data/emi" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Common mode Noise Filters
           </a>
@@ -714,7 +719,7 @@
                                         <li class="groval_navigation_second_btn">
                                       
                           <div class="second-link-area">
-                              <a href="/ww/downloads/psds" target="_self" class="mainmanu_btn_anchor_second disabled " tabindex="12">
+                              <a href="https://www.panasonic.com/global/energy/business.html" target="_blank" class="mainmanu_btn_anchor_second disabled " tabindex="12" rel="noopener">
                   Battery Product Safety Data Sheet
                 </a>
                             </div>
@@ -774,23 +779,18 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/products-ec/smd-film-capacitor/smd-film-capacitor/index" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+                                            <a href="/ww/ds/products-ec/smd-film-capacitor/smd-film-capacitor/index" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Surface Mounted Film Capacitor Application Guide
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/fasys/appli_search/index.jsp" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            APPLICATION SEARCH (FA Sensors &amp; Components)
+                                            <a href="https://industry.panasonic.com/global/en/applications" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Case study of FA equipment/motor
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/control/list_search_spec/index.jsp" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Specification Search (relays, connectors, light touch switches)
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/spec/panasonic_ac/en_fiber/en_fiber/" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
-            Fiber Sensors Search by Specifications
+                                            <a href="/ww/ds/processor-rec/pc" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+            Recommended Components for Processors (by Application)
           </a>
               </li>
       </ul>
@@ -828,11 +828,6 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/design-support/solutions/noise-thermal-solutions" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
-            Noise / Thermal Solutions
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
                                             <a href="/ww/design-support/solutions/thermal-solutions" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Thermal solutions
           </a>
@@ -865,7 +860,7 @@
               <div class="sp-only-menu">
     <ul class="groval_navigation_thread displaynone part-1">
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/products-emc-circuit-protection/circuit-protection/fuses/chip-fuse-selection_registration" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+                                            <a href="/ww/ds/products-emc-circuit-protection/circuit-protection/fuses/chip-fuse-selection_registration" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Micro Chip Fuse Selection Tool
           </a>
               </li>
@@ -875,12 +870,12 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/lc-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+                                            <a href="/ww/ds/lc-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Industrial &amp; Automotive use LC filter simulator
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/pcc-loss-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+                                            <a href="/ww/ds/pcc-loss-simulator" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Power Inductor loss simulator for automotive application
           </a>
               </li>
@@ -890,18 +885,13 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/soft-pgs-cross" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
+                                            <a href="/ww/ds/soft-pgs-cross" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Power module compatible GraphiteTIM Search Tool
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/ac-servo/mselect/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Motor capacity selection software for AC Servo Motors: &quot;Mselect&quot;
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/brushless/mselect_bl/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Motor capacity selection software for Brushless Motors: &quot;Mselect for BL&quot;
+                                            <a href="https://industry.panasonic.com/global/en/products/motor/fa-motor/ac-servo/mselect" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Servo Motor Selection Software
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
@@ -910,8 +900,18 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="/ww/presureunit" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14">
+                                            <a href="/ww/ds/presureunit" target="_self" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14">
             Conversion of pressure unit
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://util01.industrial.panasonic.com/ww/utilities/ds/calculator/hybrid-aluminum" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Hybrid/Aluminum Electrolytic capacitor Estimated Lifetime Calculation Tool
+          </a>
+              </li>
+          <li class="groval_navigation_thread_btn">
+                                            <a href="https://util01.industrial.panasonic.com/ww/utilities/ds/calculator/film" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Film capacitor Estimated Lifetime Calculation Tool
           </a>
               </li>
       </ul>
@@ -935,18 +935,13 @@
               <div class="sp-only-menu">
     <ul class="groval_navigation_thread displaynone part-1">
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/service/tech_support/fasys/idx_guide/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            FA Technical Support (for Automation Controls)
+                                            <a href="https://industry.panasonic.com/global/en/products/motor/fa-motor/ac-servo/panaterm" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+            Setup Support Software &quot;PANATERM Ver. 6 / PANATERM for Multi&quot;
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/ac-servo/panaterm/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Motor Setup Support Software &quot;PANATERM&quot; (for MINAS A6/A5 Family)
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
-                                            <a href="https://www3.panasonic.biz/ac/e/motor/fa-motor/brushless/panaterm_bl/index.jsp?__hstc=195194419.2a7bbb0340152f0afc861350c2f75433.1616382822999.1661320137238.1661327923729.524&amp;__hssc=195194419.2.1661327923729&amp;__hsfp=1215331214" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
-            Motor Setup Support Software &quot;PANATERM for BL&quot;（for MINAS BL）
+                                            <a href="https://industry.panasonic.com/global/en/products/motor/fa-motor/brushless/panaterm_bl" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
+            Setup Support Software &quot;PANATERM for BL&quot;
           </a>
               </li>
       </ul>
@@ -1536,7 +1531,7 @@
     <ul class="groval_navigation_thread displaynone part-1">
           <li class="groval_navigation_thread_btn">
                                             <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=1249&amp;field_contact_lineup=4030" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Motors for FA &amp; Industrial Application
+            Motors for FA &amp; Industrial Application（AC Servo Motors/Drivers,Brushless Motors/Amplifiers,Compact AC Geared Motors)
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
@@ -1805,11 +1800,6 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3919" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
-            Mass laminations(Shield board) &quot;PreMulti&quot;
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
                                             <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3923" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
             Glass Composite Circuit Board Materials
           </a>
@@ -1890,13 +1880,8 @@
           </a>
               </li>
           <li class="groval_navigation_thread_btn">
-                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3975" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd " tabindex="14" rel="noopener">
+                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3975" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
             Thermosetting stretchable film BEYOLEX
-          </a>
-              </li>
-          <li class="groval_navigation_thread_btn">
-                                            <a href="https://industrial.panasonic.com/cuif2/na/contact-us?field_contact_group=2343&amp;field_contact_lineup=3979" target="_blank" class="mainmanu_btn_anchor_thread disabled forthclone noadd tabout" tabindex="14" rel="noopener">
-            Ultra-light EMC shielding material
           </a>
               </li>
       </ul>
@@ -2013,7 +1998,7 @@
 <button data-drupal-selector="edit-search-button" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-search-button" name="op" value="Search
 "><span class="pc">Search</span></button></div>
   <div class="head-search-btns"><a href="/ww/parametric-search?search_name=Film%20Capacitors%20%28Electronic%20Equipment%20Use%29" class="btn btn-head-search" data-drupal-selector="edit-parametric-search-link" id="edit-parametric-search-link">Parametric<br />Search</a><a href="/ww/stock-search" class="btn btn-head-search" data-drupal-selector="edit-stock-search-link" id="edit-stock-search-link">Stock Check</a></div>
-</section><input autocomplete="off" data-drupal-selector="form-1sfcdzn7bm8vqhbehcgumnkkgr3eznnaigksxpchzpi" type="hidden" name="form_build_id" value="form-1SfCdZN7bm8VQHbEhCgUMNkKGR3eznnaIgKsXpcHzpI" /><input data-drupal-selector="edit-site-search-block-form" type="hidden" name="form_id" value="site_search_block_form" />
+</section><input autocomplete="off" data-drupal-selector="form-n7sgmgxyg28s8iaotu3x9ac4ik3nmonlpkm4k4ffz1e" type="hidden" name="form_build_id" value="form-n7SgmGxYG28s8iaOTu3X9Ac4Ik3NMONLPKM4K4ffZ1E" /><input data-drupal-selector="edit-site-search-block-form" type="hidden" name="form_id" value="site_search_block_form" />
 </form>
 
   </section>
@@ -2079,7 +2064,7 @@
 <button data-drupal-selector="edit-search-button" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-search-button--2" name="op" value="Search
 "><span class="pc">Search</span></button></div>
   <div class="head-search-btns"><a href="/ww/parametric-search?search_name=Film%20Capacitors%20%28Electronic%20Equipment%20Use%29" class="btn btn-head-search" data-drupal-selector="edit-parametric-search-link" id="edit-parametric-search-link--2">Parametric<br />Search</a><a href="/ww/stock-search" class="btn btn-head-search" data-drupal-selector="edit-stock-search-link" id="edit-stock-search-link--2">Stock Check</a></div>
-</section><input autocomplete="off" data-drupal-selector="form-xhklu2nmsj8odn2wgevdo7zjjxkdskmksk2zvllg6v4" type="hidden" name="form_build_id" value="form-xhklU2NMSJ8ODn2wGEvdO7ZJjXKdSkMKsK2ZVLlg6V4" /><input data-drupal-selector="edit-site-search-block-form-2" type="hidden" name="form_id" value="site_search_block_form" />
+</section><input autocomplete="off" data-drupal-selector="form-ejwej174hvbkwopzraxo3eqwhdv6hr-wcpnaxo7lu5c" type="hidden" name="form_build_id" value="form-eJweJ174HvbKWopzRaXo3eQWHDv6hr-wCPNaxO7lU5c" /><input data-drupal-selector="edit-site-search-block-form-2" type="hidden" name="form_id" value="site_search_block_form" />
 </form>
 
   </section>
@@ -2099,7 +2084,7 @@
   <div class="caption">
   <a href="/ww/products">Products</a>
 </div>
-<ul class="product-menu-block"><li><a href="/ww/products/capacitors" class="menu-depth-0">Capacitors</a><ul class="block-product-menu-submenu menu-depath-0"><li><a href="/ww/products/capacitors/polymer-capacitors" class="menu-depth-1">Conductive Polymer Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/sp-cap/models" class="menu-depth-2">Conductive Polymer Aluminum Electrolytic Capacitors (SP-Cap)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/poscap/models" class="menu-depth-2">Conductive Polymer Tantalum Solid Capacitors (POSCAP)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/os-con/models" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/hybrid-aluminum/models" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/aluminum-capacitors" class="menu-depth-1">Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="https://industrial.panasonic.com/ww/products/pt/os-con" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="https://industrial.panasonic.com/ww/products/pt/hybrid-aluminum" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-smd/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Surface Mount Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-lead/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Radial Lead Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/edlc" class="menu-depth-1">Electric Double Layer Capacitors (Gold Capacitor)</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/edlc-backup-power-supply-modules" class="menu-depth-2">Backup Power Supply Modules with Electric Double Layer Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-coin-type" class="menu-depth-2">Electric Double Layer Capacitors (Multilayer Coin Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-wound-type" class="menu-depth-2">Electric Double Layer Capacitors (Wound Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/film-capacitors" class="menu-depth-1">Film Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/film-cap-electroequip/models" class="menu-depth-2 menu-highlight">Film Capacitors (Electronic Equipment Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/film-cap-acmotor/models" class="menu-depth-2">Film Capacitors (AC Motor Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/automotive-film-cap" class="menu-depth-2">Film Capacitors (Automotive, Industrial and Infrastructure Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li></ul></li></ul><input autocomplete="off" data-drupal-selector="form-otpc1phwkuaot5xvbvrsbv-8tfkl3op6hizoh708r1k" type="hidden" name="form_build_id" value="form-oTPC1phWKUaOt5xVbVRSBv_8TFKl3Op6hiZoh708R1k" /><input data-drupal-selector="edit-product-menu-form" type="hidden" name="form_id" value="product_menu_form" />
+<ul class="product-menu-block"><li><a href="/ww/products/capacitors" class="menu-depth-0">Capacitors</a><ul class="block-product-menu-submenu menu-depath-0"><li><a href="/ww/products/capacitors/polymer-capacitors" class="menu-depth-1">Conductive Polymer Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/sp-cap/models" class="menu-depth-2">Conductive Polymer Aluminum Electrolytic Capacitors (SP-Cap)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/poscap/models" class="menu-depth-2">Conductive Polymer Tantalum Solid Capacitors (POSCAP)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/os-con/models" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/hybrid-aluminum/models" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/aluminum-capacitors" class="menu-depth-1">Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="https://industrial.panasonic.com/ww/products/pt/os-con" class="menu-depth-2">Conductive Polymer Aluminum Solid Capacitors (OS-CON)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="https://industrial.panasonic.com/ww/products/pt/hybrid-aluminum" class="menu-depth-2">Conductive Polymer Hybrid Aluminum Electrolytic Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-smd/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Surface Mount Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/aluminum-cap-lead/models" class="menu-depth-2">Aluminum Electrolytic Capacitors (Radial Lead Type)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/edlc" class="menu-depth-1">Electric Double Layer Capacitors (Gold Capacitor)</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/edlc-backup-power-supply-modules" class="menu-depth-2">Backup Power Supply Modules with Electric Double Layer Capacitors</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-coin-type" class="menu-depth-2">Electric Double Layer Capacitors (Multilayer Coin Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/edlc-wound-type" class="menu-depth-2">Electric Double Layer Capacitors (Wound Type) (Discontinued Products)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li><li><a href="/ww/products/capacitors/film-capacitors" class="menu-depth-1">Film Capacitors</a><ul class="block-product-menu-submenu menu-depath-1"><li><a href="/ww/products/pt/film-cap-electroequip/models" class="menu-depth-2 menu-highlight">Film Capacitors (Electronic Equipment Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/film-cap-acmotor/models" class="menu-depth-2">Film Capacitors (AC Motor Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li><li><a href="/ww/products/pt/automotive-film-cap" class="menu-depth-2">Film Capacitors (Automotive, Industrial and Infrastructure Use)</a><ul class="block-product-menu-submenu menu-depath-2"></ul></li></ul></li></ul></li></ul><input autocomplete="off" data-drupal-selector="form-c3idjahj-t4jwc8xmyeynjxcmrqorp79-ipjstczzmw" type="hidden" name="form_build_id" value="form-c3IdjAhJ-T4jwc8XmyeYnjXCMrQOrp79_iPJstCZzMw" /><input data-drupal-selector="edit-product-menu-form" type="hidden" name="form_id" value="product_menu_form" />
 </form>
 
   </section>
@@ -2240,6 +2225,14 @@
                       <td>3000</td>
                   </tr>
                       <tr class="odd">
+                      <td>AEC-Q200</td>
+                      <td>-</td>
+                  </tr>
+                      <tr class="even">
+                      <td>Safety Mechanism</td>
+                      <td>-</td>
+                  </tr>
+                      <tr class="odd">
                       <td>Weight (Typ.) (g)</td>
                       <td>0.01000</td>
                   </tr>
@@ -2263,15 +2256,15 @@
             <div class="document-area" data-drupal-selector="edit-files"><div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-catalogdatasheet" id="edit-catalogdatasheet"><div class="document-title" data-drupal-selector="edit-title">[Catalog/Datasheet]</div>
 <div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ABD0000C173.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Datasheet(859KB)</span>
 </a></div>
-<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-152809.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products Catalog (Film Capacitors)(23471KB)</span>
+<div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-152809.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products Catalog (Film Capacitors)(22825KB)</span>
 </a></div>
-<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-333091.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">High temp, 85℃-85% specified products Sell Sheet(630KB)</span>
+<div class="document-link" data-drupal-selector="edit-2"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-333091.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">High temp, 85℃-85% specified products Sell Sheet(624KB)</span>
 </a></div>
 <div class="document-link" data-drupal-selector="edit-3"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/ast-ind-345094.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Film capacitor sell sheet(565KB)</span>
 </a></div>
 </div>
 <div class="document-group-area form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-product-specifications" id="edit-product-specifications"><div class="document-title" data-drupal-selector="edit-title">[Product Specifications]</div>
-<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL78.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products list(741KB)</span>
+<div class="document-link" data-drupal-selector="edit-0"><a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDI0000/DMI0000COL78.pdf" alt="" target="_blank"><span class="file file--mime-application-pdf file--application-pdf">Products list(728KB)</span>
 </a></div>
 <div class="document-link" data-drupal-selector="edit-1"><a href="https://industrial.panasonic.com/ww/products-cap/film-capacitors/specification" alt="" target="_blank"><span class="file file--mime-application-octet-stream file--general">Specification sheet / drawing</span>
 </a></div>
@@ -2315,7 +2308,10 @@
     
 </div>
 </div>
-<input autocomplete="off" data-drupal-selector="form-1x1dw3o8km0d2lrhunfkyn7kwjnwly-h4kw65unpixa" type="hidden" name="form_build_id" value="form-1x1Dw3o8km0d2lRHuNFkyn7kwJNWLY-H4KW65UnPIxA" /><input data-drupal-selector="edit-model-detail-form" type="hidden" name="form_id" value="model_detail_form" />
+<input autocomplete="off" data-drupal-selector="form-flabui-ujagojg-wqvwamet7gzqvlopxagzzqn45-mm" type="hidden" name="form_build_id" value="form-flABui-ujAGOJG-wqVWamet7GZqVloPxAGzZqN45_mM" /><input data-drupal-selector="edit-model-detail-form" type="hidden" name="form_id" value="model_detail_form" />
+</form>
+<form class="model-characteristic-graph-form" data-drupal-selector="model-characteristic-graph-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="model-characteristic-graph-form" accept-charset="UTF-8">
+  <input autocomplete="off" data-drupal-selector="form-jhjuvgdwc9g0hbyhjtmbv8rohg7ab2r6ktgqdfydmtw" type="hidden" name="form_build_id" value="form-JHjuvGdwC9g0HbYHjTMbv8RohG7AB2r6ktgqdfYDmTw" /><input data-drupal-selector="edit-model-characteristic-graph-form" type="hidden" name="form_id" value="model_characteristic_graph_form" />
 </form>
 <form class="stock-search-resulsts-form" data-drupal-selector="stock-search-resulsts-form" novalidate="novalidate" action="/ww/products/pt/film-cap-electroequip/models/ECHU1C103JX5" method="post" id="stock-search-resulsts-form" accept-charset="UTF-8">
   <div id="stock-search-title" data-drupal-selector="edit-stock-search-results-scroll-to" class="form-group js-form-wrapper form-wrapper"><div class="js-form-wrapper form-wrapper form-item js-form-item panel panel-default" data-drupal-selector="edit-stock-search-results" id="edit-stock-search-results">
@@ -2345,7 +2341,7 @@ You can utilize this for purchasing samples and so on.<br />
     
 </div>
 </div>
-<input autocomplete="off" data-drupal-selector="form-h2l-tg4e3tut-8hjyxqwswodxg-3nkmsdw05rhuzjls" type="hidden" name="form_build_id" value="form-h2L-Tg4e3tuT-8HJyxQwsWoDXG-3NKmsdw05rHuZjLs" /><input data-drupal-selector="edit-stock-search-resulsts-form" type="hidden" name="form_id" value="stock_search_resulsts_form" />
+<input autocomplete="off" data-drupal-selector="form-zv0dmfqcaeofxcdksdbsf0qq5tr-1m67khf8jwsnpoc" type="hidden" name="form_build_id" value="form-Zv0DMFQCAeOfXcDksDbSf0qQ5tr_1M67kHf8JwSNpoc" /><input data-drupal-selector="edit-stock-search-resulsts-form" type="hidden" name="form_id" value="stock_search_resulsts_form" />
 </form>
 
 
@@ -2414,7 +2410,7 @@ Copyright © Panasonic Industry
                               </div>
     </div>
   </div>
-</div><input autocomplete="off" data-drupal-selector="form-aqrhxgufuo819cvipi3j3mseajfly-f6ywyl4vzfiya" type="hidden" name="form_build_id" value="form-aQRHXgUfuO819CvIpi3j3mseajFLy_f6ywyl4vZfIYA" /><input data-drupal-selector="edit-footer-form" type="hidden" name="form_id" value="footer_form" />
+</div><input autocomplete="off" data-drupal-selector="form-nv7uio3iq7v7nax1tmqyhelrvbzahwb-nv7aqiqlbte" type="hidden" name="form_build_id" value="form-nv7uIo3Iq7v7nAX1TMQYHELrVBzAhwb-NV7AQIqLBTE" /><input data-drupal-selector="edit-footer-form" type="hidden" name="form_id" value="footer_form" />
 </form>
 
   </section>
@@ -2433,7 +2429,7 @@ Copyright © Panasonic Industry
       
     </div>
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ww\/","currentPath":"products\/pt\/film-cap-electroequip\/models\/ECHU1C103JX5","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"b2b_industrials\/industrials.document,b2b_industrials\/industrials.footer,b2b_industrials\/industrials.global_navigation,b2b_industrials\/industrials.header,b2b_industrials\/industrials.model,b2b_industrials\/industrials.productmenu,b2b_model_detail\/model_detail,b2b_site_search\/site_search_block,b2b_stock_search\/b2b_stock_search_results,bootstrap\/modal,bootstrap\/popover,bootstrap\/tooltip,cookiepro\/cookiepro,core\/drupal.ajax,core\/drupal.autocomplete,core\/drupal.collapse,core\/drupal.tableresponsive,core\/internal.jquery.form,extlink\/drupal.extlink,industrials\/global-styling,industrials\/region.ww,system\/base","theme":"industrials","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/ww\/stock-search\/ajax":true},"multiselect":{"widths":250},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"industrial\\.panasonic\\.(com|cn)|ais2sr02web001\\.crm\\.pisc\\.jp\\.panasonic\\.com","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)"}},"cookiepro":{"13":{"script":{"type":"text\/javascript"},"value":"\r\n  const excludes = [\r\n    \u0022\/ww\/ds\/library\/Privacy-policy\u0022,\r\n    \u0022\/sa\/ds\/library\/Privacy-policy\u0022,\r\n  ];\r\n  if (excludes.indexOf(location.pathname) == -1) {\r\n  \r\n    const script1 = document.createElement(\u0022script\u0022);\r\n    script1.type = \u0022text\/javascript\u0022;\r\n    script1.src = \u0022https:\/\/cdn-au.onetrust.com\/consent\/a9e27793-6cf2-4764-9f6d-41badb794a72\/OtAutoBlock.js\u0022;\r\n    \r\n    const script2 = document.createElement(\u0022script\u0022);\r\n    script2.type = \u0022text\/javascript\u0022;\r\n    script2.src = \u0022https:\/\/cdn-au.onetrust.com\/scripttemplates\/otSDKStub.js\u0022;\r\n    script2.setAttribute(\u0022charset\u0022, \u0022UTF-8\u0022);\r\n    script2.setAttribute(\u0022data-document-language\u0022, true);\r\n    script2.setAttribute(\u0022data-domain-script\u0022, \u0022a9e27793-6cf2-4764-9f6d-41badb794a72\u0022);\r\n    \r\n    const script3 = document.createElement(\u0022script\u0022);\r\n    script3.type = \u0022text\/javascript\u0022;\r\n    script3.innerHTML = \u0022function OptanonWrapper() { };\u0022;\r\n    \r\n    var headTag = document.getElementsByTagName(\u0022head\u0022)[0];\r\n    headTag.appendChild(script1);\r\n    headTag.appendChild(script2);\r\n    headTag.appendChild(script3);\r\n  }\r\n"}},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"b2b_stock_search":{"data":{"type":2,"model":"ECHU1C103JX5","langcode":"en","stock_search_page":false}},"ajax":{"edit-button":{"wrapper":"stock-search-results","url":"\/ww\/stock-search\/ajax","progress":{"type":"stocksearch"},"event":"mousedown","keypress":true,"prevent":"click","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Stock Check"}}},"user":{"uid":0,"permissionsHash":"eaa40ebdddd19dc390a840a0151527edfefc6c28b69dabf59533edba1d502281"}}</script>
-<script src="/content/js/js_m1Ih_R1u2sgueI9RCOmbpopLVcZ9muBfhpnBw200CPY.js"></script>
+<script src="/content/js/js_9YrjxTt49RU1v4V0xmlZMyNCuWz9SE4XF0mtpxIAr40.js"></script>
 
   </body>
 </html>
